@@ -1,0 +1,160 @@
+{
+    "TokyoMetro.Hanzomon": [
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Shibuya",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.OmoteSando",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.OmoteSando",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.AoyamaItchome",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.AoyamaItchome",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Nagatacho",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Nagatacho",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Hanzomon",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Hanzomon",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Kudanshita",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Kudanshita",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Jimbocho",
+                            "odpt:necessaryTime": 1,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Jimbocho",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Otemachi",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Otemachi",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Mitsukoshimae",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Mitsukoshimae",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Suitengumae",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Suitengumae",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.KiyosumiShirakawa",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.KiyosumiShirakawa",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Sumiyoshi",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Sumiyoshi",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Kinshicho",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Kinshicho",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Oshiage",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Oshiage",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Kinshicho",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Kinshicho",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Sumiyoshi",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Sumiyoshi",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.KiyosumiShirakawa",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.KiyosumiShirakawa",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Suitengumae",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Suitengumae",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Mitsukoshimae",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Mitsukoshimae",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Otemachi",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Otemachi",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Jimbocho",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Jimbocho",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Kudanshita",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Kudanshita",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Hanzomon",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Hanzomon",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Nagatacho",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.Nagatacho",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.AoyamaItchome",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.AoyamaItchome",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.OmoteSando",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            },
+                            {
+                            "odpt:fromStation": "odpt.Station:TokyoMetro.Hanzomon.OmoteSando",
+                            "odpt:toStation": "odpt.Station:TokyoMetro.Hanzomon.Shibuya",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "odpt.TrainType:Local"
+                            }
+                            ]
+}

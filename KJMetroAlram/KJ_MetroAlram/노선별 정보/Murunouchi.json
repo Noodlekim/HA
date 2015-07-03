@@ -1,0 +1,472 @@
+[
+ {
+     "@context": "http://vocab.tokyometroapp.jp/context_odpt_Railway.jsonld",
+     "@id": "urn:ucode:_00001C000000000000010000030C46AB",
+     "@type": "odpt:Railway",
+     "owl:sameAs": "odpt.Railway:TokyoMetro.MarunouchiBranch",
+     "dc:title": "丸ノ内",
+     "odpt:stationOrder": [
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.MarunouchiBranch.Honancho",
+         "odpt:index": 0
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoFujimicho",
+         "odpt:index": 1
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoShimbashi",
+         "odpt:index": 2
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoSakaue",
+         "odpt:index": 3
+     }
+     ],
+     "odpt:travelTime": [
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.MarunouchiBranch.Honancho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoFujimicho",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoFujimicho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoShimbashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoShimbashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoSakaue",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoSakaue",
+         "odpt:toStation": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoShimbashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoShimbashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoFujimicho",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoFujimicho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.MarunouchiBranch.Honancho",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     }
+     ],
+     "odpt:lineCode": "m",
+     "ug:region": "https://api.tokyometroapp.jp/api/v2/places/urn:ucode:_00001C000000000000010000030C46AB.geojson",
+     "dc:date": "2014-09-29T19:42:45+09:00",
+     "odpt:operator": "odpt.Operator:TokyoMetro"
+ },
+ {
+     "@context": "http://vocab.tokyometroapp.jp/context_odpt_Railway.jsonld",
+     "@id": "urn:ucode:_00001C000000000000010000030C46AD",
+     "@type": "odpt:Railway",
+     "owl:sameAs": "odpt.Railway:TokyoMetro.Marunouchi",
+     "dc:title": "丸ノ内",
+     "odpt:stationOrder": [
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Ogikubo",
+         "odpt:index": 0
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.MinamiAsagaya",
+         "odpt:index": 1
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.ShinKoenji",
+         "odpt:index": 2
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.HigashiKoenji",
+         "odpt:index": 3
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.ShinNakano",
+         "odpt:index": 4
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.NakanoSakaue",
+         "odpt:index": 5
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.NishiShinjuku",
+         "odpt:index": 6
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Shinjuku",
+         "odpt:index": 7
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuSanchome",
+         "odpt:index": 8
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuGyoemmae",
+         "odpt:index": 9
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.YotsuyaSanchome",
+         "odpt:index": 10
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Yotsuya",
+         "odpt:index": 11
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.AkasakaMitsuke",
+         "odpt:index": 12
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.KokkaiGijidomae",
+         "odpt:index": 13
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Kasumigaseki",
+         "odpt:index": 14
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Ginza",
+         "odpt:index": 15
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Tokyo",
+         "odpt:index": 16
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Otemachi",
+         "odpt:index": 17
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Awajicho",
+         "odpt:index": 18
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Ochanomizu",
+         "odpt:index": 19
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.HongoSanchome",
+         "odpt:index": 20
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Korakuen",
+         "odpt:index": 21
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Myogadani",
+         "odpt:index": 22
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.ShinOtsuka",
+         "odpt:index": 23
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro",
+         "odpt:index": 24
+     }
+     ],
+     "odpt:travelTime": [
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Ogikubo",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.MinamiAsagaya",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.MinamiAsagaya",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.ShinKoenji",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.ShinKoenji",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.HigashiKoenji",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.HigashiKoenji",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.ShinNakano",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.ShinNakano",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.NakanoSakaue",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.NakanoSakaue",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.NishiShinjuku",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.NishiShinjuku",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Shinjuku",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Shinjuku",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuSanchome",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuSanchome",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuGyoemmae",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuGyoemmae",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.YotsuyaSanchome",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.YotsuyaSanchome",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Yotsuya",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Yotsuya",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.AkasakaMitsuke",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.AkasakaMitsuke",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.KokkaiGijidomae",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.KokkaiGijidomae",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Kasumigaseki",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Kasumigaseki",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Ginza",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Ginza",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Tokyo",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Tokyo",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Otemachi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Otemachi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Awajicho",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Awajicho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Ochanomizu",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Ochanomizu",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.HongoSanchome",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.HongoSanchome",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Korakuen",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Korakuen",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Myogadani",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Myogadani",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.ShinOtsuka",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.ShinOtsuka",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.ShinOtsuka",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.ShinOtsuka",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Myogadani",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Myogadani",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Korakuen",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Korakuen",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.HongoSanchome",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.HongoSanchome",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Ochanomizu",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Ochanomizu",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Awajicho",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Awajicho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Otemachi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Otemachi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Tokyo",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Tokyo",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Ginza",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Ginza",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Kasumigaseki",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Kasumigaseki",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.KokkaiGijidomae",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.KokkaiGijidomae",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.AkasakaMitsuke",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.AkasakaMitsuke",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Yotsuya",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Yotsuya",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.YotsuyaSanchome",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.YotsuyaSanchome",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuGyoemmae",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuGyoemmae",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuSanchome",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuSanchome",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Shinjuku",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.Shinjuku",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.NishiShinjuku",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.NishiShinjuku",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.NakanoSakaue",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.NakanoSakaue",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.ShinNakano",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.ShinNakano",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.HigashiKoenji",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.HigashiKoenji",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.ShinKoenji",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.ShinKoenji",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.MinamiAsagaya",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Marunouchi.MinamiAsagaya",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Marunouchi.Ogikubo",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     }
+     ],
+     "odpt:lineCode": "M",
+     "ug:region": "https://api.tokyometroapp.jp/api/v2/places/urn:ucode:_00001C000000000000010000030C46AD.geojson",
+     "dc:date": "2014-09-29T19:42:45+09:00",
+     "odpt:operator": "odpt.Operator:TokyoMetro"
+ }
+ ]

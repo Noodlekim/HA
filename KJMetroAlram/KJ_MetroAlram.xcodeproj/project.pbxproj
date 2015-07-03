@@ -1,0 +1,1328 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		03049D6E1A030577001286DF /* Num0@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03049D641A030577001286DF /* Num0@2x.png */; };
+		03049D6F1A030577001286DF /* Num1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03049D651A030577001286DF /* Num1@2x.png */; };
+		03049D701A030577001286DF /* Num2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03049D661A030577001286DF /* Num2@2x.png */; };
+		03049D711A030577001286DF /* Num3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03049D671A030577001286DF /* Num3@2x.png */; };
+		03049D721A030577001286DF /* Num4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03049D681A030577001286DF /* Num4@2x.png */; };
+		03049D731A030577001286DF /* Num5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03049D691A030577001286DF /* Num5@2x.png */; };
+		03049D741A030577001286DF /* Num6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03049D6A1A030577001286DF /* Num6@2x.png */; };
+		03049D761A030577001286DF /* Num8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03049D6C1A030577001286DF /* Num8@2x.png */; };
+		03049D771A030577001286DF /* Num9@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03049D6D1A030577001286DF /* Num9@2x.png */; };
+		03049D791A030CCC001286DF /* 音なし.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 03049D781A030CCC001286DF /* 音なし.mp3 */; };
+		0313C65B19FFF73C00CC63F3 /* TopLeftButton2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0313C65A19FFF73C00CC63F3 /* TopLeftButton2@2x.png */; };
+		0313C65E19FFF99300CC63F3 /* SEManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0313C65D19FFF99300CC63F3 /* SEManager.m */; };
+		0313C66819FFFAE700CC63F3 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0313C66719FFFAE700CC63F3 /* AVFoundation.framework */; };
+		031D63331A070B7800FC2BE8 /* EkiResultTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 031D63311A070B7800FC2BE8 /* EkiResultTableViewCell.m */; };
+		031D63341A070B7800FC2BE8 /* EkiResultTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 031D63321A070B7800FC2BE8 /* EkiResultTableViewCell.xib */; };
+		031D63381A070EAE00FC2BE8 /* EkiResultVerticalLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 031D63351A070EAE00FC2BE8 /* EkiResultVerticalLine@2x.png */; };
+		031D63391A070EAE00FC2BE8 /* EkiResultWaku@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 031D63361A070EAE00FC2BE8 /* EkiResultWaku@2x.png */; };
+		031D633A1A070EAE00FC2BE8 /* SaveBK2.png in Resources */ = {isa = PBXBuildFile; fileRef = 031D63371A070EAE00FC2BE8 /* SaveBK2.png */; };
+		031D633C1A0745F400FC2BE8 /* CommonBK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 031D633B1A0745F400FC2BE8 /* CommonBK@2x.png */; };
+		031D633E1A0D412500FC2BE8 /* DefaultWithoutA@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 031D633D1A0D412500FC2BE8 /* DefaultWithoutA@2x.png */; };
+		031D63401A0EFC6700FC2BE8 /* TanTan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 031D633F1A0EFC6700FC2BE8 /* TanTan@2x.png */; };
+		0344EDB119FB139300B0E922 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0344EDB019FB139300B0E922 /* main.m */; };
+		0344EDB419FB139300B0E922 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0344EDB319FB139300B0E922 /* AppDelegate.m */; };
+		0344EDB719FB139300B0E922 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0344EDB619FB139300B0E922 /* ViewController.m */; };
+		0344EDBC19FB139300B0E922 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0344EDBB19FB139300B0E922 /* Images.xcassets */; };
+		0344EDCB19FB139300B0E922 /* KJ_MetroAlramTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0344EDCA19FB139300B0E922 /* KJ_MetroAlramTests.m */; };
+		0344EE8519FCFACD00B0E922 /* AlramSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0344EE8319FCFACD00B0E922 /* AlramSelectionViewController.m */; };
+		0344EE8619FCFACD00B0E922 /* AlramSelectionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0344EE8419FCFACD00B0E922 /* AlramSelectionViewController.xib */; };
+		0344EE8D19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0344EE8B19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.m */; };
+		0344EE8E19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0344EE8C19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.xib */; };
+		0344EE9419FD283300B0E922 /* AlramSelectionTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0344EE9219FD283300B0E922 /* AlramSelectionTableViewCell.m */; };
+		0344EE9519FD283300B0E922 /* AlramSelectionTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0344EE9319FD283300B0E922 /* AlramSelectionTableViewCell.xib */; };
+		034671011A0C351C002987B3 /* hukidasi01@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670EA1A0C351C002987B3 /* hukidasi01@2x.png */; };
+		034671021A0C351C002987B3 /* hukidasi02@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670EB1A0C351C002987B3 /* hukidasi02@2x.png */; };
+		034671031A0C351C002987B3 /* hukidasi03@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670EC1A0C351C002987B3 /* hukidasi03@2x.png */; };
+		034671041A0C351C002987B3 /* hukidasi04@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670ED1A0C351C002987B3 /* hukidasi04@2x.png */; };
+		034671051A0C351C002987B3 /* icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670EF1A0C351C002987B3 /* icon-29.png */; };
+		034671061A0C351C002987B3 /* icon-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670F01A0C351C002987B3 /* icon-29@2x.png */; };
+		034671071A0C351C002987B3 /* icon-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670F11A0C351C002987B3 /* icon-29@3x.png */; };
+		034671081A0C351C002987B3 /* icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670F21A0C351C002987B3 /* icon-40.png */; };
+		034671091A0C351C002987B3 /* icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670F31A0C351C002987B3 /* icon-40@2x.png */; };
+		0346710A1A0C351C002987B3 /* icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670F41A0C351C002987B3 /* icon-40@3x.png */; };
+		0346710B1A0C351C002987B3 /* icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670F51A0C351C002987B3 /* icon-50.png */; };
+		0346710C1A0C351C002987B3 /* icon-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670F61A0C351C002987B3 /* icon-50@2x.png */; };
+		0346710D1A0C351C002987B3 /* icon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670F71A0C351C002987B3 /* icon-57.png */; };
+		0346710E1A0C351C002987B3 /* icon-57@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670F81A0C351C002987B3 /* icon-57@2x.png */; };
+		0346710F1A0C351C002987B3 /* icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670F91A0C351C002987B3 /* icon-72.png */; };
+		034671101A0C351C002987B3 /* icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670FA1A0C351C002987B3 /* icon-72@2x.png */; };
+		034671111A0C351C002987B3 /* icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670FB1A0C351C002987B3 /* icon-76.png */; };
+		034671121A0C351C002987B3 /* icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670FC1A0C351C002987B3 /* icon-76@2x.png */; };
+		034671131A0C351C002987B3 /* subway01@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670FD1A0C351C002987B3 /* subway01@2x.png */; };
+		034671141A0C351C002987B3 /* subway02@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670FE1A0C351C002987B3 /* subway02@2x.png */; };
+		034671151A0C351C002987B3 /* subway03@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034670FF1A0C351C002987B3 /* subway03@2x.png */; };
+		034671161A0C351C002987B3 /* subway04@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 034671001A0C351C002987B3 /* subway04@2x.png */; };
+		0346711A1A0C3C2E002987B3 /* Station.m in Sources */ = {isa = PBXBuildFile; fileRef = 034671191A0C3C2E002987B3 /* Station.m */; };
+		0346711D1A0C3C53002987B3 /* Via.m in Sources */ = {isa = PBXBuildFile; fileRef = 0346711C1A0C3C53002987B3 /* Via.m */; };
+		0346716E1A0DC5FD002987B3 /* KJMSpentTimeManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0346716D1A0DC5FD002987B3 /* KJMSpentTimeManager.m */; };
+		034671701A0DD253002987B3 /* MetoroSpentTime.json in Resources */ = {isa = PBXBuildFile; fileRef = 0346716F1A0DD253002987B3 /* MetoroSpentTime.json */; };
+		034671721A0DD683002987B3 /* MetoroLine.json in Resources */ = {isa = PBXBuildFile; fileRef = 034671711A0DD683002987B3 /* MetoroLine.json */; };
+		034671761A0DF0FA002987B3 /* lineEkiKeyValue.plist in Resources */ = {isa = PBXBuildFile; fileRef = 034671751A0DF0FA002987B3 /* lineEkiKeyValue.plist */; };
+		034671781A0DF2F5002987B3 /* lineEkiKeyValue_groupLine.plist in Resources */ = {isa = PBXBuildFile; fileRef = 034671771A0DF2F5002987B3 /* lineEkiKeyValue_groupLine.plist */; };
+		0346717A1A0E079B002987B3 /* KJMetroStationDetail.plist in Resources */ = {isa = PBXBuildFile; fileRef = 034671791A0E079B002987B3 /* KJMetroStationDetail.plist */; };
+		034671841A0E4CEF002987B3 /* ManualViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 034671831A0E4CEF002987B3 /* ManualViewController.m */; };
+		034671871A0E50AD002987B3 /* KJMTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 034671861A0E50AD002987B3 /* KJMTextField.m */; };
+		0346718B1A0E660C002987B3 /* turnA2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0346718A1A0E660C002987B3 /* turnA2@2x.png */; };
+		036556541A04A3CA00010979 /* もうすぐだよ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 036556531A04A3CA00010979 /* もうすぐだよ.mp3 */; };
+		0365565C1A04CE2700010979 /* InputModeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0365565A1A04CE2700010979 /* InputModeViewController.m */; };
+		0365565D1A04CE2700010979 /* InputModeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0365565B1A04CE2700010979 /* InputModeViewController.xib */; };
+		036556601A05C8EF00010979 /* TrashiCon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0365565E1A05C8EF00010979 /* TrashiCon@2x.png */; };
+		036556611A05C8EF00010979 /* TurnA@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0365565F1A05C8EF00010979 /* TurnA@2x.png */; };
+		036556641A05CF9700010979 /* CustomBottomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 036556631A05CF9700010979 /* CustomBottomButton.m */; };
+		036556661A05CFA400010979 /* CustomBottomButton.xib in Resources */ = {isa = PBXBuildFile; fileRef = 036556651A05CFA400010979 /* CustomBottomButton.xib */; };
+		036556711A068E3300010979 /* AutoEkiInputViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0365566F1A068E3300010979 /* AutoEkiInputViewController.m */; };
+		036556721A068E3300010979 /* AutoEkiInputViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 036556701A068E3300010979 /* AutoEkiInputViewController.xib */; };
+		036556771A07994000010979 /* StartTimerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 036556751A07994000010979 /* StartTimerViewController.m */; };
+		036556781A07994000010979 /* StartTimerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 036556761A07994000010979 /* StartTimerViewController.xib */; };
+		0365567E1A07B23200010979 /* Balloon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 036556791A07B23200010979 /* Balloon@2x.png */; };
+		0365567F1A07B23200010979 /* Rail@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0365567A1A07B23200010979 /* Rail@2x.png */; };
+		036556801A07B23200010979 /* StartTimerBKView@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0365567B1A07B23200010979 /* StartTimerBKView@2x.png */; };
+		036556811A07B23200010979 /* Subway@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0365567C1A07B23200010979 /* Subway@2x.png */; };
+		036556821A07B23200010979 /* TimerOKButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0365567D1A07B23200010979 /* TimerOKButton@2x.png */; };
+		036556841A07B85D00010979 /* StartTimerBK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 036556831A07B85D00010979 /* StartTimerBK@2x.png */; };
+		036556861A07C59A00010979 /* TypewriterSerial-Medium-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 036556851A07C59A00010979 /* TypewriterSerial-Medium-Regular.ttf */; };
+		03C45FD51A01B53F00F24CF2 /* mplus-1p-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03C45FD41A01B53F00F24CF2 /* mplus-1p-regular.ttf */; };
+		03C45FDB1A01B63800F24CF2 /* KJMButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 03C45FD81A01B63800F24CF2 /* KJMButton.m */; };
+		03C45FDC1A01B63800F24CF2 /* KJMLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 03C45FDA1A01B63800F24CF2 /* KJMLabel.m */; };
+		03C8F0401A034F7200A2CEA0 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 03C8F03F1A034F7200A2CEA0 /* Default.png */; };
+		03C8F0421A03580100A2CEA0 /* Settingtimers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 03C8F0411A03580100A2CEA0 /* Settingtimers.plist */; };
+		03C8F0461A03597A00A2CEA0 /* KJMFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 03C8F0451A03597A00A2CEA0 /* KJMFileManager.m */; };
+		03D0287D19FEA69C00DEA678 /* InfomationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D0287C19FEA69C00DEA678 /* InfomationViewController.m */; };
+		03D0288419FEADBD00DEA678 /* 電子音.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 03D0287F19FEADBD00DEA678 /* 電子音.mp3 */; };
+		03D0288519FEADBD00DEA678 /* 猫の鳴き声.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 03D0288019FEADBD00DEA678 /* 猫の鳴き声.mp3 */; };
+		03D0288719FEADBD00DEA678 /* いってらっしゃい.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 03D0288219FEADBD00DEA678 /* いってらっしゃい.mp3 */; };
+		03D0288819FEADBD00DEA678 /* おかえりなさい.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 03D0288319FEADBD00DEA678 /* おかえりなさい.mp3 */; };
+		03D0288C19FF12E800DEA678 /* SaveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03D0288A19FF12E800DEA678 /* SaveViewController.m */; };
+		03D0288D19FF12E800DEA678 /* SaveViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 03D0288B19FF12E800DEA678 /* SaveViewController.xib */; };
+		03D0299119FFB14000DEA678 /* AlramMic_Off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294019FFB14000DEA678 /* AlramMic_Off@2x.png */; };
+		03D0299219FFB14000DEA678 /* AlramMic_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294119FFB14000DEA678 /* AlramMic_On@2x.png */; };
+		03D0299319FFB14000DEA678 /* AmberCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294219FFB14000DEA678 /* AmberCircle@2x.png */; };
+		03D0299419FFB14000DEA678 /* AmberCircle_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294319FFB14000DEA678 /* AmberCircle_On@2x.png */; };
+		03D0299519FFB14000DEA678 /* AppInfomation@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294419FFB14000DEA678 /* AppInfomation@2x.png */; };
+		03D0299619FFB14000DEA678 /* Arrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294519FFB14000DEA678 /* Arrow@2x.png */; };
+		03D0299719FFB14000DEA678 /* BackButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294619FFB14000DEA678 /* BackButton@2x.png */; };
+		03D0299819FFB14000DEA678 /* Background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294719FFB14000DEA678 /* Background@2x.png */; };
+		03D0299919FFB14000DEA678 /* BlueCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294819FFB14000DEA678 /* BlueCircle@2x.png */; };
+		03D0299A19FFB14000DEA678 /* BlueCircle_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294919FFB14000DEA678 /* BlueCircle_On@2x.png */; };
+		03D0299B19FFB14000DEA678 /* BottonCenterButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294A19FFB14000DEA678 /* BottonCenterButton@2x.png */; };
+		03D0299C19FFB14000DEA678 /* BottonLeftButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294B19FFB14000DEA678 /* BottonLeftButton@2x.png */; };
+		03D0299D19FFB14000DEA678 /* BottonRightButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294C19FFB14000DEA678 /* BottonRightButton@2x.png */; };
+		03D0299E19FFB14000DEA678 /* CenterButton_Off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294D19FFB14000DEA678 /* CenterButton_Off@2x.png */; };
+		03D0299F19FFB14000DEA678 /* CenterButton_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294E19FFB14000DEA678 /* CenterButton_On@2x.png */; };
+		03D029A019FFB14000DEA678 /* DarkGreenCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0294F19FFB14000DEA678 /* DarkGreenCircle@2x.png */; };
+		03D029A119FFB14000DEA678 /* DarkGreenCircle_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295019FFB14000DEA678 /* DarkGreenCircle_On@2x.png */; };
+		03D029A219FFB14000DEA678 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295119FFB14000DEA678 /* Default@2x.png */; };
+		03D029A319FFB14000DEA678 /* GrayCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295219FFB14000DEA678 /* GrayCircle@2x.png */; };
+		03D029A419FFB14000DEA678 /* GrayCircle_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295319FFB14000DEA678 /* GrayCircle_On@2x.png */; };
+		03D029A519FFB14000DEA678 /* GreenCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295419FFB14000DEA678 /* GreenCircle@2x.png */; };
+		03D029A619FFB14000DEA678 /* GreenCircle_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295519FFB14000DEA678 /* GreenCircle_On@2x.png */; };
+		03D029A719FFB14000DEA678 /* Infomation@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295619FFB14000DEA678 /* Infomation@2x.png */; };
+		03D029A819FFB14000DEA678 /* infomationArrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295719FFB14000DEA678 /* infomationArrow@2x.png */; };
+		03D029A919FFB14000DEA678 /* InfomationBK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295819FFB14000DEA678 /* InfomationBK@2x.png */; };
+		03D029AA19FFB14000DEA678 /* infomationBKLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295919FFB14000DEA678 /* infomationBKLine@2x.png */; };
+		03D029AB19FFB14000DEA678 /* InfomationCloseButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295A19FFB14000DEA678 /* InfomationCloseButton@2x.png */; };
+		03D029AC19FFB14000DEA678 /* InputButtonBK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295B19FFB14000DEA678 /* InputButtonBK@2x.png */; };
+		03D029AD19FFB14000DEA678 /* KeyPad0@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295C19FFB14000DEA678 /* KeyPad0@2x.png */; };
+		03D029AE19FFB14000DEA678 /* KeyPad0_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295D19FFB14000DEA678 /* KeyPad0_On@2x.png */; };
+		03D029AF19FFB14000DEA678 /* KeyPad1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295E19FFB14000DEA678 /* KeyPad1@2x.png */; };
+		03D029B019FFB14000DEA678 /* KeyPad1_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0295F19FFB14000DEA678 /* KeyPad1_On@2x.png */; };
+		03D029B119FFB14000DEA678 /* KeyPad2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296019FFB14000DEA678 /* KeyPad2@2x.png */; };
+		03D029B219FFB14000DEA678 /* KeyPad2_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296119FFB14000DEA678 /* KeyPad2_On@2x.png */; };
+		03D029B319FFB14000DEA678 /* KeyPad3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296219FFB14000DEA678 /* KeyPad3@2x.png */; };
+		03D029B419FFB14000DEA678 /* KeyPad3_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296319FFB14000DEA678 /* KeyPad3_On@2x.png */; };
+		03D029B519FFB14000DEA678 /* KeyPad4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296419FFB14000DEA678 /* KeyPad4@2x.png */; };
+		03D029B619FFB14000DEA678 /* KeyPad4_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296519FFB14000DEA678 /* KeyPad4_On@2x.png */; };
+		03D029B719FFB14000DEA678 /* KeyPad5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296619FFB14000DEA678 /* KeyPad5@2x.png */; };
+		03D029B819FFB14000DEA678 /* KeyPad5_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296719FFB14000DEA678 /* KeyPad5_On@2x.png */; };
+		03D029B919FFB14000DEA678 /* KeyPad6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296819FFB14000DEA678 /* KeyPad6@2x.png */; };
+		03D029BA19FFB14000DEA678 /* KeyPad6_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296919FFB14000DEA678 /* KeyPad6_On@2x.png */; };
+		03D029BB19FFB14000DEA678 /* KeyPad7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296A19FFB14000DEA678 /* KeyPad7@2x.png */; };
+		03D029BC19FFB14000DEA678 /* KeyPad7_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296B19FFB14000DEA678 /* KeyPad7_On@2x.png */; };
+		03D029BD19FFB14000DEA678 /* KeyPad8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296C19FFB14000DEA678 /* KeyPad8@2x.png */; };
+		03D029BE19FFB14000DEA678 /* KeyPad8_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296D19FFB14000DEA678 /* KeyPad8_On@2x.png */; };
+		03D029BF19FFB14000DEA678 /* KeyPad9@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296E19FFB14000DEA678 /* KeyPad9@2x.png */; };
+		03D029C019FFB14000DEA678 /* KeyPad9_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0296F19FFB14000DEA678 /* KeyPad9_On@2x.png */; };
+		03D029C119FFB14000DEA678 /* KeyPad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297019FFB14000DEA678 /* KeyPad@2x.png */; };
+		03D029C219FFB14000DEA678 /* KeyPadBK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297119FFB14000DEA678 /* KeyPadBK@2x.png */; };
+		03D029C319FFB14000DEA678 /* KeyPadClear@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297219FFB14000DEA678 /* KeyPadClear@2x.png */; };
+		03D029C419FFB14000DEA678 /* KeyPadClear_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297319FFB14000DEA678 /* KeyPadClear_On@2x.png */; };
+		03D029C519FFB14000DEA678 /* NotAddButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297419FFB14000DEA678 /* NotAddButton@2x.png */; };
+		03D029C619FFB14000DEA678 /* OKButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297519FFB14000DEA678 /* OKButton@2x.png */; };
+		03D029C719FFB14000DEA678 /* OrangeCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297619FFB14000DEA678 /* OrangeCircle@2x.png */; };
+		03D029C819FFB14000DEA678 /* OrangeCircle_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297719FFB14000DEA678 /* OrangeCircle_On@2x.png */; };
+		03D029C919FFB14000DEA678 /* PurpleCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297819FFB14000DEA678 /* PurpleCircle@2x.png */; };
+		03D029CA19FFB14000DEA678 /* PurpleCircle_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297919FFB14000DEA678 /* PurpleCircle_On@2x.png */; };
+		03D029CB19FFB14000DEA678 /* RedCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297A19FFB14000DEA678 /* RedCircle@2x.png */; };
+		03D029CC19FFB14000DEA678 /* RedCircle_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297B19FFB14000DEA678 /* RedCircle_On@2x.png */; };
+		03D029CD19FFB14000DEA678 /* SaveBK2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297C19FFB14000DEA678 /* SaveBK2@2x.png */; };
+		03D029CE19FFB14000DEA678 /* SaveBK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297D19FFB14000DEA678 /* SaveBK@2x.png */; };
+		03D029CF19FFB14000DEA678 /* SaveBottom@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297E19FFB14000DEA678 /* SaveBottom@2x.png */; };
+		03D029D019FFB14000DEA678 /* SaveBottomLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0297F19FFB14000DEA678 /* SaveBottomLine@2x.png */; };
+		03D029D119FFB14000DEA678 /* SaveTitleButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298019FFB14000DEA678 /* SaveTitleButton@2x.png */; };
+		03D029D219FFB14000DEA678 /* SelectAlramBottomBK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298119FFB14000DEA678 /* SelectAlramBottomBK@2x.png */; };
+		03D029D319FFB14000DEA678 /* SelectAlramBottomLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298219FFB14000DEA678 /* SelectAlramBottomLine@2x.png */; };
+		03D029D419FFB14000DEA678 /* SelectAlramCheckButton_Off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298319FFB14000DEA678 /* SelectAlramCheckButton_Off@2x.png */; };
+		03D029D519FFB14000DEA678 /* SelectAlramCheckButton_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298419FFB14000DEA678 /* SelectAlramCheckButton_On@2x.png */; };
+		03D029D619FFB14000DEA678 /* SelectAlramHorizonLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298519FFB14000DEA678 /* SelectAlramHorizonLine@2x.png */; };
+		03D029D719FFB14000DEA678 /* SelectAlramMainBK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298619FFB14000DEA678 /* SelectAlramMainBK@2x.png */; };
+		03D029D819FFB14000DEA678 /* SelectAlramSoundBK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298719FFB14000DEA678 /* SelectAlramSoundBK@2x.png */; };
+		03D029D919FFB14000DEA678 /* SelectAlramVerticalLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298819FFB14000DEA678 /* SelectAlramVerticalLine@2x.png */; };
+		03D029DA19FFB14000DEA678 /* SetTimerBK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298919FFB14000DEA678 /* SetTimerBK@2x.png */; };
+		03D029DB19FFB14000DEA678 /* SoundChange@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298A19FFB14000DEA678 /* SoundChange@2x.png */; };
+		03D029DC19FFB14000DEA678 /* TopLeftButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298B19FFB14000DEA678 /* TopLeftButton@2x.png */; };
+		03D029DD19FFB14000DEA678 /* TopRightButton01@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298C19FFB14000DEA678 /* TopRightButton01@2x.png */; };
+		03D029DE19FFB14000DEA678 /* TopRightButton02@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298D19FFB14000DEA678 /* TopRightButton02@2x.png */; };
+		03D029DF19FFB14000DEA678 /* TopRightButton03@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298E19FFB14000DEA678 /* TopRightButton03@2x.png */; };
+		03D029E019FFB14000DEA678 /* YellowCircle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0298F19FFB14000DEA678 /* YellowCircle@2x.png */; };
+		03D029E119FFB14000DEA678 /* YellowCircle_On@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D0299019FFB14000DEA678 /* YellowCircle_On@2x.png */; };
+		03D029E319FFB7AC00DEA678 /* SaveBK3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D029E219FFB7AC00DEA678 /* SaveBK3@2x.png */; };
+		03D77DC21A0F4FA400E8416D /* HiraName.txt in Resources */ = {isa = PBXBuildFile; fileRef = 03D77DC11A0F4FA400E8416D /* HiraName.txt */; };
+		03D77DC51A0F652200E8416D /* Manual@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03D77DC41A0F652200E8416D /* Manual@2x.png */; };
+		03D77DC71A0F72DE00E8416D /* ManualViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 03D77DC61A0F72DE00E8416D /* ManualViewController.xib */; };
+		03D77DCB1A0F7C8500E8416D /* metro_stationDict.json in Resources */ = {isa = PBXBuildFile; fileRef = 03D77DCA1A0F7C8500E8416D /* metro_stationDict.json */; };
+		03F8FDA71A03850D00A63AFA /* Num7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03F8FDA61A03850D00A63AFA /* Num7@2x.png */; };
+		3D12BE211A07DD1D00B799DE /* EkiName.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3D12BE1E1A07DD1D00B799DE /* EkiName.txt */; };
+		3D12BE221A07DD1D00B799DE /* EngName.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3D12BE1F1A07DD1D00B799DE /* EngName.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0344EDC519FB139300B0E922 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0344EDA319FB139300B0E922 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0344EDAA19FB139300B0E922;
+			remoteInfo = KJ_MetroAlram;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		03049D641A030577001286DF /* Num0@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Num0@2x.png"; sourceTree = "<group>"; };
+		03049D651A030577001286DF /* Num1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Num1@2x.png"; sourceTree = "<group>"; };
+		03049D661A030577001286DF /* Num2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Num2@2x.png"; sourceTree = "<group>"; };
+		03049D671A030577001286DF /* Num3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Num3@2x.png"; sourceTree = "<group>"; };
+		03049D681A030577001286DF /* Num4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Num4@2x.png"; sourceTree = "<group>"; };
+		03049D691A030577001286DF /* Num5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Num5@2x.png"; sourceTree = "<group>"; };
+		03049D6A1A030577001286DF /* Num6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Num6@2x.png"; sourceTree = "<group>"; };
+		03049D6C1A030577001286DF /* Num8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Num8@2x.png"; sourceTree = "<group>"; };
+		03049D6D1A030577001286DF /* Num9@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Num9@2x.png"; sourceTree = "<group>"; };
+		03049D781A030CCC001286DF /* 音なし.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "音なし.mp3"; sourceTree = "<group>"; };
+		0313C65A19FFF73C00CC63F3 /* TopLeftButton2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TopLeftButton2@2x.png"; sourceTree = "<group>"; };
+		0313C65C19FFF99300CC63F3 /* SEManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SEManager.h; sourceTree = "<group>"; };
+		0313C65D19FFF99300CC63F3 /* SEManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SEManager.m; sourceTree = "<group>"; };
+		0313C66719FFFAE700CC63F3 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		031D63301A070B7800FC2BE8 /* EkiResultTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EkiResultTableViewCell.h; sourceTree = "<group>"; };
+		031D63311A070B7800FC2BE8 /* EkiResultTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EkiResultTableViewCell.m; sourceTree = "<group>"; };
+		031D63321A070B7800FC2BE8 /* EkiResultTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EkiResultTableViewCell.xib; sourceTree = "<group>"; };
+		031D63351A070EAE00FC2BE8 /* EkiResultVerticalLine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "EkiResultVerticalLine@2x.png"; sourceTree = "<group>"; };
+		031D63361A070EAE00FC2BE8 /* EkiResultWaku@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "EkiResultWaku@2x.png"; sourceTree = "<group>"; };
+		031D63371A070EAE00FC2BE8 /* SaveBK2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SaveBK2.png; sourceTree = "<group>"; };
+		031D633B1A0745F400FC2BE8 /* CommonBK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CommonBK@2x.png"; sourceTree = "<group>"; };
+		031D633D1A0D412500FC2BE8 /* DefaultWithoutA@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DefaultWithoutA@2x.png"; sourceTree = "<group>"; };
+		031D633F1A0EFC6700FC2BE8 /* TanTan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TanTan@2x.png"; sourceTree = "<group>"; };
+		0344EDAB19FB139300B0E922 /* HA!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HA!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0344EDAF19FB139300B0E922 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0344EDB019FB139300B0E922 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0344EDB219FB139300B0E922 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0344EDB319FB139300B0E922 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0344EDB519FB139300B0E922 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		0344EDB619FB139300B0E922 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0344EDB919FB139300B0E922 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0344EDBB19FB139300B0E922 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		0344EDBE19FB139300B0E922 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		0344EDC419FB139300B0E922 /* KJ_MetroAlramTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KJ_MetroAlramTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0344EDC919FB139300B0E922 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0344EDCA19FB139300B0E922 /* KJ_MetroAlramTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KJ_MetroAlramTests.m; sourceTree = "<group>"; };
+		0344EE8219FCFACD00B0E922 /* AlramSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlramSelectionViewController.h; sourceTree = "<group>"; };
+		0344EE8319FCFACD00B0E922 /* AlramSelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlramSelectionViewController.m; sourceTree = "<group>"; };
+		0344EE8419FCFACD00B0E922 /* AlramSelectionViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AlramSelectionViewController.xib; sourceTree = "<group>"; };
+		0344EE8A19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlramSelectionLastTableViewCell.h; sourceTree = "<group>"; };
+		0344EE8B19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlramSelectionLastTableViewCell.m; sourceTree = "<group>"; };
+		0344EE8C19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AlramSelectionLastTableViewCell.xib; sourceTree = "<group>"; };
+		0344EE9119FD283300B0E922 /* AlramSelectionTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlramSelectionTableViewCell.h; sourceTree = "<group>"; };
+		0344EE9219FD283300B0E922 /* AlramSelectionTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlramSelectionTableViewCell.m; sourceTree = "<group>"; };
+		0344EE9319FD283300B0E922 /* AlramSelectionTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AlramSelectionTableViewCell.xib; sourceTree = "<group>"; };
+		034670EA1A0C351C002987B3 /* hukidasi01@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hukidasi01@2x.png"; sourceTree = "<group>"; };
+		034670EB1A0C351C002987B3 /* hukidasi02@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hukidasi02@2x.png"; sourceTree = "<group>"; };
+		034670EC1A0C351C002987B3 /* hukidasi03@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hukidasi03@2x.png"; sourceTree = "<group>"; };
+		034670ED1A0C351C002987B3 /* hukidasi04@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hukidasi04@2x.png"; sourceTree = "<group>"; };
+		034670EF1A0C351C002987B3 /* icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-29.png"; sourceTree = "<group>"; };
+		034670F01A0C351C002987B3 /* icon-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-29@2x.png"; sourceTree = "<group>"; };
+		034670F11A0C351C002987B3 /* icon-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-29@3x.png"; sourceTree = "<group>"; };
+		034670F21A0C351C002987B3 /* icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-40.png"; sourceTree = "<group>"; };
+		034670F31A0C351C002987B3 /* icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-40@2x.png"; sourceTree = "<group>"; };
+		034670F41A0C351C002987B3 /* icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-40@3x.png"; sourceTree = "<group>"; };
+		034670F51A0C351C002987B3 /* icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-50.png"; sourceTree = "<group>"; };
+		034670F61A0C351C002987B3 /* icon-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-50@2x.png"; sourceTree = "<group>"; };
+		034670F71A0C351C002987B3 /* icon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-57.png"; sourceTree = "<group>"; };
+		034670F81A0C351C002987B3 /* icon-57@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-57@2x.png"; sourceTree = "<group>"; };
+		034670F91A0C351C002987B3 /* icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72.png"; sourceTree = "<group>"; };
+		034670FA1A0C351C002987B3 /* icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72@2x.png"; sourceTree = "<group>"; };
+		034670FB1A0C351C002987B3 /* icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-76.png"; sourceTree = "<group>"; };
+		034670FC1A0C351C002987B3 /* icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-76@2x.png"; sourceTree = "<group>"; };
+		034670FD1A0C351C002987B3 /* subway01@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "subway01@2x.png"; sourceTree = "<group>"; };
+		034670FE1A0C351C002987B3 /* subway02@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "subway02@2x.png"; sourceTree = "<group>"; };
+		034670FF1A0C351C002987B3 /* subway03@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "subway03@2x.png"; sourceTree = "<group>"; };
+		034671001A0C351C002987B3 /* subway04@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "subway04@2x.png"; sourceTree = "<group>"; };
+		034671181A0C3C2E002987B3 /* Station.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Station.h; sourceTree = "<group>"; };
+		034671191A0C3C2E002987B3 /* Station.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Station.m; sourceTree = "<group>"; };
+		0346711B1A0C3C53002987B3 /* Via.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Via.h; sourceTree = "<group>"; };
+		0346711C1A0C3C53002987B3 /* Via.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Via.m; sourceTree = "<group>"; };
+		0346716C1A0DC5FD002987B3 /* KJMSpentTimeManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KJMSpentTimeManager.h; sourceTree = "<group>"; };
+		0346716D1A0DC5FD002987B3 /* KJMSpentTimeManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KJMSpentTimeManager.m; sourceTree = "<group>"; };
+		0346716F1A0DD253002987B3 /* MetoroSpentTime.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = MetoroSpentTime.json; path = KJ_MetroAlram/MetoroSpentTime.json; sourceTree = SOURCE_ROOT; };
+		034671711A0DD683002987B3 /* MetoroLine.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = MetoroLine.json; path = KJ_MetroAlram/MetoroLine.json; sourceTree = SOURCE_ROOT; };
+		034671751A0DF0FA002987B3 /* lineEkiKeyValue.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = lineEkiKeyValue.plist; path = KJ_MetroAlram/lineEkiKeyValue.plist; sourceTree = SOURCE_ROOT; };
+		034671771A0DF2F5002987B3 /* lineEkiKeyValue_groupLine.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = lineEkiKeyValue_groupLine.plist; path = KJ_MetroAlram/lineEkiKeyValue_groupLine.plist; sourceTree = SOURCE_ROOT; };
+		034671791A0E079B002987B3 /* KJMetroStationDetail.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = KJMetroStationDetail.plist; path = KJ_MetroAlram/RealData/KJMetroStationDetail.plist; sourceTree = SOURCE_ROOT; };
+		034671821A0E4CEF002987B3 /* ManualViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManualViewController.h; sourceTree = "<group>"; };
+		034671831A0E4CEF002987B3 /* ManualViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManualViewController.m; sourceTree = "<group>"; };
+		034671851A0E50AD002987B3 /* KJMTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KJMTextField.h; sourceTree = "<group>"; };
+		034671861A0E50AD002987B3 /* KJMTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KJMTextField.m; sourceTree = "<group>"; };
+		0346718A1A0E660C002987B3 /* turnA2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "turnA2@2x.png"; sourceTree = "<group>"; };
+		036556531A04A3CA00010979 /* もうすぐだよ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "もうすぐだよ.mp3"; sourceTree = "<group>"; };
+		036556591A04CE2700010979 /* InputModeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InputModeViewController.h; sourceTree = "<group>"; };
+		0365565A1A04CE2700010979 /* InputModeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InputModeViewController.m; sourceTree = "<group>"; };
+		0365565B1A04CE2700010979 /* InputModeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InputModeViewController.xib; sourceTree = "<group>"; };
+		0365565E1A05C8EF00010979 /* TrashiCon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TrashiCon@2x.png"; sourceTree = "<group>"; };
+		0365565F1A05C8EF00010979 /* TurnA@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TurnA@2x.png"; sourceTree = "<group>"; };
+		036556621A05CF9700010979 /* CustomBottomButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomBottomButton.h; sourceTree = "<group>"; };
+		036556631A05CF9700010979 /* CustomBottomButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomBottomButton.m; sourceTree = "<group>"; };
+		036556651A05CFA400010979 /* CustomBottomButton.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomBottomButton.xib; sourceTree = "<group>"; };
+		0365566E1A068E3300010979 /* AutoEkiInputViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AutoEkiInputViewController.h; sourceTree = "<group>"; };
+		0365566F1A068E3300010979 /* AutoEkiInputViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AutoEkiInputViewController.m; sourceTree = "<group>"; };
+		036556701A068E3300010979 /* AutoEkiInputViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AutoEkiInputViewController.xib; sourceTree = "<group>"; };
+		036556741A07994000010979 /* StartTimerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StartTimerViewController.h; sourceTree = "<group>"; };
+		036556751A07994000010979 /* StartTimerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StartTimerViewController.m; sourceTree = "<group>"; };
+		036556761A07994000010979 /* StartTimerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StartTimerViewController.xib; sourceTree = "<group>"; };
+		036556791A07B23200010979 /* Balloon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Balloon@2x.png"; sourceTree = "<group>"; };
+		0365567A1A07B23200010979 /* Rail@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rail@2x.png"; sourceTree = "<group>"; };
+		0365567B1A07B23200010979 /* StartTimerBKView@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "StartTimerBKView@2x.png"; sourceTree = "<group>"; };
+		0365567C1A07B23200010979 /* Subway@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Subway@2x.png"; sourceTree = "<group>"; };
+		0365567D1A07B23200010979 /* TimerOKButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TimerOKButton@2x.png"; sourceTree = "<group>"; };
+		036556831A07B85D00010979 /* StartTimerBK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "StartTimerBK@2x.png"; sourceTree = "<group>"; };
+		036556851A07C59A00010979 /* TypewriterSerial-Medium-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TypewriterSerial-Medium-Regular.ttf"; sourceTree = "<group>"; };
+		03C45FD41A01B53F00F24CF2 /* mplus-1p-regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "mplus-1p-regular.ttf"; sourceTree = "<group>"; };
+		03C45FD71A01B63800F24CF2 /* KJMButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KJMButton.h; sourceTree = "<group>"; };
+		03C45FD81A01B63800F24CF2 /* KJMButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KJMButton.m; sourceTree = "<group>"; };
+		03C45FD91A01B63800F24CF2 /* KJMLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KJMLabel.h; sourceTree = "<group>"; };
+		03C45FDA1A01B63800F24CF2 /* KJMLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KJMLabel.m; sourceTree = "<group>"; };
+		03C8F03F1A034F7200A2CEA0 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		03C8F0411A03580100A2CEA0 /* Settingtimers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Settingtimers.plist; sourceTree = "<group>"; };
+		03C8F0441A03597A00A2CEA0 /* KJMFileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KJMFileManager.h; sourceTree = "<group>"; };
+		03C8F0451A03597A00A2CEA0 /* KJMFileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KJMFileManager.m; sourceTree = "<group>"; };
+		03D0287B19FEA69C00DEA678 /* InfomationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfomationViewController.h; sourceTree = "<group>"; };
+		03D0287C19FEA69C00DEA678 /* InfomationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfomationViewController.m; sourceTree = "<group>"; };
+		03D0287F19FEADBD00DEA678 /* 電子音.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "電子音.mp3"; sourceTree = "<group>"; };
+		03D0288019FEADBD00DEA678 /* 猫の鳴き声.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "猫の鳴き声.mp3"; sourceTree = "<group>"; };
+		03D0288219FEADBD00DEA678 /* いってらっしゃい.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "いってらっしゃい.mp3"; sourceTree = "<group>"; };
+		03D0288319FEADBD00DEA678 /* おかえりなさい.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "おかえりなさい.mp3"; sourceTree = "<group>"; };
+		03D0288919FF12E800DEA678 /* SaveViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SaveViewController.h; sourceTree = "<group>"; };
+		03D0288A19FF12E800DEA678 /* SaveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SaveViewController.m; sourceTree = "<group>"; };
+		03D0288B19FF12E800DEA678 /* SaveViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SaveViewController.xib; sourceTree = "<group>"; };
+		03D0294019FFB14000DEA678 /* AlramMic_Off@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AlramMic_Off@2x.png"; sourceTree = "<group>"; };
+		03D0294119FFB14000DEA678 /* AlramMic_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AlramMic_On@2x.png"; sourceTree = "<group>"; };
+		03D0294219FFB14000DEA678 /* AmberCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AmberCircle@2x.png"; sourceTree = "<group>"; };
+		03D0294319FFB14000DEA678 /* AmberCircle_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AmberCircle_On@2x.png"; sourceTree = "<group>"; };
+		03D0294419FFB14000DEA678 /* AppInfomation@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppInfomation@2x.png"; sourceTree = "<group>"; };
+		03D0294519FFB14000DEA678 /* Arrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Arrow@2x.png"; sourceTree = "<group>"; };
+		03D0294619FFB14000DEA678 /* BackButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BackButton@2x.png"; sourceTree = "<group>"; };
+		03D0294719FFB14000DEA678 /* Background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Background@2x.png"; sourceTree = "<group>"; };
+		03D0294819FFB14000DEA678 /* BlueCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BlueCircle@2x.png"; sourceTree = "<group>"; };
+		03D0294919FFB14000DEA678 /* BlueCircle_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BlueCircle_On@2x.png"; sourceTree = "<group>"; };
+		03D0294A19FFB14000DEA678 /* BottonCenterButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BottonCenterButton@2x.png"; sourceTree = "<group>"; };
+		03D0294B19FFB14000DEA678 /* BottonLeftButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BottonLeftButton@2x.png"; sourceTree = "<group>"; };
+		03D0294C19FFB14000DEA678 /* BottonRightButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BottonRightButton@2x.png"; sourceTree = "<group>"; };
+		03D0294D19FFB14000DEA678 /* CenterButton_Off@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CenterButton_Off@2x.png"; sourceTree = "<group>"; };
+		03D0294E19FFB14000DEA678 /* CenterButton_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CenterButton_On@2x.png"; sourceTree = "<group>"; };
+		03D0294F19FFB14000DEA678 /* DarkGreenCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DarkGreenCircle@2x.png"; sourceTree = "<group>"; };
+		03D0295019FFB14000DEA678 /* DarkGreenCircle_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DarkGreenCircle_On@2x.png"; sourceTree = "<group>"; };
+		03D0295119FFB14000DEA678 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		03D0295219FFB14000DEA678 /* GrayCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GrayCircle@2x.png"; sourceTree = "<group>"; };
+		03D0295319FFB14000DEA678 /* GrayCircle_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GrayCircle_On@2x.png"; sourceTree = "<group>"; };
+		03D0295419FFB14000DEA678 /* GreenCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GreenCircle@2x.png"; sourceTree = "<group>"; };
+		03D0295519FFB14000DEA678 /* GreenCircle_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GreenCircle_On@2x.png"; sourceTree = "<group>"; };
+		03D0295619FFB14000DEA678 /* Infomation@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Infomation@2x.png"; sourceTree = "<group>"; };
+		03D0295719FFB14000DEA678 /* infomationArrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "infomationArrow@2x.png"; sourceTree = "<group>"; };
+		03D0295819FFB14000DEA678 /* InfomationBK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfomationBK@2x.png"; sourceTree = "<group>"; };
+		03D0295919FFB14000DEA678 /* infomationBKLine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "infomationBKLine@2x.png"; sourceTree = "<group>"; };
+		03D0295A19FFB14000DEA678 /* InfomationCloseButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfomationCloseButton@2x.png"; sourceTree = "<group>"; };
+		03D0295B19FFB14000DEA678 /* InputButtonBK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InputButtonBK@2x.png"; sourceTree = "<group>"; };
+		03D0295C19FFB14000DEA678 /* KeyPad0@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad0@2x.png"; sourceTree = "<group>"; };
+		03D0295D19FFB14000DEA678 /* KeyPad0_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad0_On@2x.png"; sourceTree = "<group>"; };
+		03D0295E19FFB14000DEA678 /* KeyPad1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad1@2x.png"; sourceTree = "<group>"; };
+		03D0295F19FFB14000DEA678 /* KeyPad1_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad1_On@2x.png"; sourceTree = "<group>"; };
+		03D0296019FFB14000DEA678 /* KeyPad2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad2@2x.png"; sourceTree = "<group>"; };
+		03D0296119FFB14000DEA678 /* KeyPad2_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad2_On@2x.png"; sourceTree = "<group>"; };
+		03D0296219FFB14000DEA678 /* KeyPad3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad3@2x.png"; sourceTree = "<group>"; };
+		03D0296319FFB14000DEA678 /* KeyPad3_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad3_On@2x.png"; sourceTree = "<group>"; };
+		03D0296419FFB14000DEA678 /* KeyPad4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad4@2x.png"; sourceTree = "<group>"; };
+		03D0296519FFB14000DEA678 /* KeyPad4_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad4_On@2x.png"; sourceTree = "<group>"; };
+		03D0296619FFB14000DEA678 /* KeyPad5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad5@2x.png"; sourceTree = "<group>"; };
+		03D0296719FFB14000DEA678 /* KeyPad5_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad5_On@2x.png"; sourceTree = "<group>"; };
+		03D0296819FFB14000DEA678 /* KeyPad6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad6@2x.png"; sourceTree = "<group>"; };
+		03D0296919FFB14000DEA678 /* KeyPad6_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad6_On@2x.png"; sourceTree = "<group>"; };
+		03D0296A19FFB14000DEA678 /* KeyPad7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad7@2x.png"; sourceTree = "<group>"; };
+		03D0296B19FFB14000DEA678 /* KeyPad7_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad7_On@2x.png"; sourceTree = "<group>"; };
+		03D0296C19FFB14000DEA678 /* KeyPad8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad8@2x.png"; sourceTree = "<group>"; };
+		03D0296D19FFB14000DEA678 /* KeyPad8_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad8_On@2x.png"; sourceTree = "<group>"; };
+		03D0296E19FFB14000DEA678 /* KeyPad9@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad9@2x.png"; sourceTree = "<group>"; };
+		03D0296F19FFB14000DEA678 /* KeyPad9_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad9_On@2x.png"; sourceTree = "<group>"; };
+		03D0297019FFB14000DEA678 /* KeyPad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad@2x.png"; sourceTree = "<group>"; };
+		03D0297119FFB14000DEA678 /* KeyPadBK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPadBK@2x.png"; sourceTree = "<group>"; };
+		03D0297219FFB14000DEA678 /* KeyPadClear@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPadClear@2x.png"; sourceTree = "<group>"; };
+		03D0297319FFB14000DEA678 /* KeyPadClear_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPadClear_On@2x.png"; sourceTree = "<group>"; };
+		03D0297419FFB14000DEA678 /* NotAddButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NotAddButton@2x.png"; sourceTree = "<group>"; };
+		03D0297519FFB14000DEA678 /* OKButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "OKButton@2x.png"; sourceTree = "<group>"; };
+		03D0297619FFB14000DEA678 /* OrangeCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "OrangeCircle@2x.png"; sourceTree = "<group>"; };
+		03D0297719FFB14000DEA678 /* OrangeCircle_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "OrangeCircle_On@2x.png"; sourceTree = "<group>"; };
+		03D0297819FFB14000DEA678 /* PurpleCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PurpleCircle@2x.png"; sourceTree = "<group>"; };
+		03D0297919FFB14000DEA678 /* PurpleCircle_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PurpleCircle_On@2x.png"; sourceTree = "<group>"; };
+		03D0297A19FFB14000DEA678 /* RedCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RedCircle@2x.png"; sourceTree = "<group>"; };
+		03D0297B19FFB14000DEA678 /* RedCircle_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RedCircle_On@2x.png"; sourceTree = "<group>"; };
+		03D0297C19FFB14000DEA678 /* SaveBK2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SaveBK2@2x.png"; sourceTree = "<group>"; };
+		03D0297D19FFB14000DEA678 /* SaveBK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SaveBK@2x.png"; sourceTree = "<group>"; };
+		03D0297E19FFB14000DEA678 /* SaveBottom@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SaveBottom@2x.png"; sourceTree = "<group>"; };
+		03D0297F19FFB14000DEA678 /* SaveBottomLine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SaveBottomLine@2x.png"; sourceTree = "<group>"; };
+		03D0298019FFB14000DEA678 /* SaveTitleButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SaveTitleButton@2x.png"; sourceTree = "<group>"; };
+		03D0298119FFB14000DEA678 /* SelectAlramBottomBK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SelectAlramBottomBK@2x.png"; sourceTree = "<group>"; };
+		03D0298219FFB14000DEA678 /* SelectAlramBottomLine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SelectAlramBottomLine@2x.png"; sourceTree = "<group>"; };
+		03D0298319FFB14000DEA678 /* SelectAlramCheckButton_Off@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SelectAlramCheckButton_Off@2x.png"; sourceTree = "<group>"; };
+		03D0298419FFB14000DEA678 /* SelectAlramCheckButton_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SelectAlramCheckButton_On@2x.png"; sourceTree = "<group>"; };
+		03D0298519FFB14000DEA678 /* SelectAlramHorizonLine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SelectAlramHorizonLine@2x.png"; sourceTree = "<group>"; };
+		03D0298619FFB14000DEA678 /* SelectAlramMainBK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SelectAlramMainBK@2x.png"; sourceTree = "<group>"; };
+		03D0298719FFB14000DEA678 /* SelectAlramSoundBK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SelectAlramSoundBK@2x.png"; sourceTree = "<group>"; };
+		03D0298819FFB14000DEA678 /* SelectAlramVerticalLine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SelectAlramVerticalLine@2x.png"; sourceTree = "<group>"; };
+		03D0298919FFB14000DEA678 /* SetTimerBK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SetTimerBK@2x.png"; sourceTree = "<group>"; };
+		03D0298A19FFB14000DEA678 /* SoundChange@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SoundChange@2x.png"; sourceTree = "<group>"; };
+		03D0298B19FFB14000DEA678 /* TopLeftButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TopLeftButton@2x.png"; sourceTree = "<group>"; };
+		03D0298C19FFB14000DEA678 /* TopRightButton01@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TopRightButton01@2x.png"; sourceTree = "<group>"; };
+		03D0298D19FFB14000DEA678 /* TopRightButton02@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TopRightButton02@2x.png"; sourceTree = "<group>"; };
+		03D0298E19FFB14000DEA678 /* TopRightButton03@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TopRightButton03@2x.png"; sourceTree = "<group>"; };
+		03D0298F19FFB14000DEA678 /* YellowCircle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "YellowCircle@2x.png"; sourceTree = "<group>"; };
+		03D0299019FFB14000DEA678 /* YellowCircle_On@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "YellowCircle_On@2x.png"; sourceTree = "<group>"; };
+		03D029E219FFB7AC00DEA678 /* SaveBK3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SaveBK3@2x.png"; sourceTree = "<group>"; };
+		03D77DC11A0F4FA400E8416D /* HiraName.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HiraName.txt; sourceTree = "<group>"; };
+		03D77DC41A0F652200E8416D /* Manual@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Manual@2x.png"; sourceTree = "<group>"; };
+		03D77DC61A0F72DE00E8416D /* ManualViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ManualViewController.xib; sourceTree = "<group>"; };
+		03D77DCA1A0F7C8500E8416D /* metro_stationDict.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = metro_stationDict.json; path = KJ_MetroAlram/metro_stationDict.json; sourceTree = SOURCE_ROOT; };
+		03F8FDA61A03850D00A63AFA /* Num7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Num7@2x.png"; sourceTree = "<group>"; };
+		3D12BE1E1A07DD1D00B799DE /* EkiName.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EkiName.txt; sourceTree = "<group>"; };
+		3D12BE1F1A07DD1D00B799DE /* EngName.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EngName.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0344EDA819FB139300B0E922 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0313C66819FFFAE700CC63F3 /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0344EDC119FB139300B0E922 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0344EDA219FB139300B0E922 = {
+			isa = PBXGroup;
+			children = (
+				0313C66719FFFAE700CC63F3 /* AVFoundation.framework */,
+				0344EDAD19FB139300B0E922 /* KJ_MetroAlram */,
+				0344EDC719FB139300B0E922 /* KJ_MetroAlramTests */,
+				0344EDAC19FB139300B0E922 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0344EDAC19FB139300B0E922 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0344EDAB19FB139300B0E922 /* HA!.app */,
+				0344EDC419FB139300B0E922 /* KJ_MetroAlramTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0344EDAD19FB139300B0E922 /* KJ_MetroAlram */ = {
+			isa = PBXGroup;
+			children = (
+				0344EDB519FB139300B0E922 /* ViewController.h */,
+				0344EDB619FB139300B0E922 /* ViewController.m */,
+				0344EDB819FB139300B0E922 /* Main.storyboard */,
+				0344EDB219FB139300B0E922 /* AppDelegate.h */,
+				0344EDB319FB139300B0E922 /* AppDelegate.m */,
+				03C8F0431A03584800A2CEA0 /* Common */,
+				036556551A04CD3800010979 /* MusicSelectionView */,
+				036556561A04CD6700010979 /* CreditView */,
+				036556571A04CD8E00010979 /* SettingSaveView */,
+				0365566D1A068E1B00010979 /* AutoEkiInputView */,
+				036556581A04CDEB00010979 /* InpuModeView */,
+				036556731A07992C00010979 /* StartTimerView */,
+				034671811A0E4CDF002987B3 /* ManualView */,
+				0344EDBB19FB139300B0E922 /* Images.xcassets */,
+				0344EDBD19FB139300B0E922 /* LaunchScreen.xib */,
+				0344EDAE19FB139300B0E922 /* Supporting Files */,
+			);
+			path = KJ_MetroAlram;
+			sourceTree = "<group>";
+		};
+		0344EDAE19FB139300B0E922 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				034671571A0DAD58002987B3 /* 노선별 요소시간 */,
+				3D12BE1D1A07DD1D00B799DE /* maps */,
+				03C45FD31A01B52A00F24CF2 /* font */,
+				03D0293F19FFB14000DEA678 /* images */,
+				03D0287E19FEADB500DEA678 /* sound */,
+				0344EDAF19FB139300B0E922 /* Info.plist */,
+				0344EDB019FB139300B0E922 /* main.m */,
+				03C8F0411A03580100A2CEA0 /* Settingtimers.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0344EDC719FB139300B0E922 /* KJ_MetroAlramTests */ = {
+			isa = PBXGroup;
+			children = (
+				0344EDCA19FB139300B0E922 /* KJ_MetroAlramTests.m */,
+				0344EDC819FB139300B0E922 /* Supporting Files */,
+			);
+			path = KJ_MetroAlramTests;
+			sourceTree = "<group>";
+		};
+		0344EDC819FB139300B0E922 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0344EDC919FB139300B0E922 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		034670EE1A0C351C002987B3 /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				034670EF1A0C351C002987B3 /* icon-29.png */,
+				034670F01A0C351C002987B3 /* icon-29@2x.png */,
+				034670F11A0C351C002987B3 /* icon-29@3x.png */,
+				034670F21A0C351C002987B3 /* icon-40.png */,
+				034670F31A0C351C002987B3 /* icon-40@2x.png */,
+				034670F41A0C351C002987B3 /* icon-40@3x.png */,
+				034670F51A0C351C002987B3 /* icon-50.png */,
+				034670F61A0C351C002987B3 /* icon-50@2x.png */,
+				034670F71A0C351C002987B3 /* icon-57.png */,
+				034670F81A0C351C002987B3 /* icon-57@2x.png */,
+				034670F91A0C351C002987B3 /* icon-72.png */,
+				034670FA1A0C351C002987B3 /* icon-72@2x.png */,
+				034670FB1A0C351C002987B3 /* icon-76.png */,
+				034670FC1A0C351C002987B3 /* icon-76@2x.png */,
+			);
+			path = icon;
+			sourceTree = "<group>";
+		};
+		034671171A0C3BF8002987B3 /* Line Objects */ = {
+			isa = PBXGroup;
+			children = (
+				034671181A0C3C2E002987B3 /* Station.h */,
+				034671191A0C3C2E002987B3 /* Station.m */,
+				0346711B1A0C3C53002987B3 /* Via.h */,
+				0346711C1A0C3C53002987B3 /* Via.m */,
+			);
+			name = "Line Objects";
+			sourceTree = "<group>";
+		};
+		034671571A0DAD58002987B3 /* 노선별 요소시간 */ = {
+			isa = PBXGroup;
+			children = (
+				0346716F1A0DD253002987B3 /* MetoroSpentTime.json */,
+				03D77DCA1A0F7C8500E8416D /* metro_stationDict.json */,
+				034671711A0DD683002987B3 /* MetoroLine.json */,
+				034671751A0DF0FA002987B3 /* lineEkiKeyValue.plist */,
+				034671771A0DF2F5002987B3 /* lineEkiKeyValue_groupLine.plist */,
+				034671791A0E079B002987B3 /* KJMetroStationDetail.plist */,
+			);
+			path = "노선별 요소시간";
+			sourceTree = "<group>";
+		};
+		034671811A0E4CDF002987B3 /* ManualView */ = {
+			isa = PBXGroup;
+			children = (
+				034671821A0E4CEF002987B3 /* ManualViewController.h */,
+				034671831A0E4CEF002987B3 /* ManualViewController.m */,
+				03D77DC61A0F72DE00E8416D /* ManualViewController.xib */,
+			);
+			name = ManualView;
+			sourceTree = "<group>";
+		};
+		036556551A04CD3800010979 /* MusicSelectionView */ = {
+			isa = PBXGroup;
+			children = (
+				0344EE8219FCFACD00B0E922 /* AlramSelectionViewController.h */,
+				0344EE8319FCFACD00B0E922 /* AlramSelectionViewController.m */,
+				0344EE8419FCFACD00B0E922 /* AlramSelectionViewController.xib */,
+				0344EE9119FD283300B0E922 /* AlramSelectionTableViewCell.h */,
+				0344EE9219FD283300B0E922 /* AlramSelectionTableViewCell.m */,
+				0344EE9319FD283300B0E922 /* AlramSelectionTableViewCell.xib */,
+				0344EE8A19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.h */,
+				0344EE8B19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.m */,
+				0344EE8C19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.xib */,
+			);
+			name = MusicSelectionView;
+			sourceTree = "<group>";
+		};
+		036556561A04CD6700010979 /* CreditView */ = {
+			isa = PBXGroup;
+			children = (
+				03D0287B19FEA69C00DEA678 /* InfomationViewController.h */,
+				03D0287C19FEA69C00DEA678 /* InfomationViewController.m */,
+			);
+			name = CreditView;
+			sourceTree = "<group>";
+		};
+		036556571A04CD8E00010979 /* SettingSaveView */ = {
+			isa = PBXGroup;
+			children = (
+				03D0288919FF12E800DEA678 /* SaveViewController.h */,
+				03D0288A19FF12E800DEA678 /* SaveViewController.m */,
+				03D0288B19FF12E800DEA678 /* SaveViewController.xib */,
+			);
+			name = SettingSaveView;
+			sourceTree = "<group>";
+		};
+		036556581A04CDEB00010979 /* InpuModeView */ = {
+			isa = PBXGroup;
+			children = (
+				036556591A04CE2700010979 /* InputModeViewController.h */,
+				0365565A1A04CE2700010979 /* InputModeViewController.m */,
+				0365565B1A04CE2700010979 /* InputModeViewController.xib */,
+			);
+			name = InpuModeView;
+			sourceTree = "<group>";
+		};
+		0365566D1A068E1B00010979 /* AutoEkiInputView */ = {
+			isa = PBXGroup;
+			children = (
+				0365566E1A068E3300010979 /* AutoEkiInputViewController.h */,
+				0365566F1A068E3300010979 /* AutoEkiInputViewController.m */,
+				036556701A068E3300010979 /* AutoEkiInputViewController.xib */,
+				031D63301A070B7800FC2BE8 /* EkiResultTableViewCell.h */,
+				031D63311A070B7800FC2BE8 /* EkiResultTableViewCell.m */,
+				031D63321A070B7800FC2BE8 /* EkiResultTableViewCell.xib */,
+			);
+			name = AutoEkiInputView;
+			sourceTree = "<group>";
+		};
+		036556731A07992C00010979 /* StartTimerView */ = {
+			isa = PBXGroup;
+			children = (
+				036556741A07994000010979 /* StartTimerViewController.h */,
+				036556751A07994000010979 /* StartTimerViewController.m */,
+				036556761A07994000010979 /* StartTimerViewController.xib */,
+			);
+			name = StartTimerView;
+			sourceTree = "<group>";
+		};
+		03C45FD31A01B52A00F24CF2 /* font */ = {
+			isa = PBXGroup;
+			children = (
+				036556851A07C59A00010979 /* TypewriterSerial-Medium-Regular.ttf */,
+				03C45FD41A01B53F00F24CF2 /* mplus-1p-regular.ttf */,
+			);
+			name = font;
+			sourceTree = "<group>";
+		};
+		03C45FD61A01B63800F24CF2 /* CustomLabel&Button */ = {
+			isa = PBXGroup;
+			children = (
+				03C45FD71A01B63800F24CF2 /* KJMButton.h */,
+				03C45FD81A01B63800F24CF2 /* KJMButton.m */,
+				03C45FD91A01B63800F24CF2 /* KJMLabel.h */,
+				03C45FDA1A01B63800F24CF2 /* KJMLabel.m */,
+				034671851A0E50AD002987B3 /* KJMTextField.h */,
+				034671861A0E50AD002987B3 /* KJMTextField.m */,
+			);
+			name = "CustomLabel&Button";
+			path = GLLabel;
+			sourceTree = "<group>";
+		};
+		03C8F0431A03584800A2CEA0 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				03C45FD61A01B63800F24CF2 /* CustomLabel&Button */,
+				0313C65C19FFF99300CC63F3 /* SEManager.h */,
+				0313C65D19FFF99300CC63F3 /* SEManager.m */,
+				03C8F0441A03597A00A2CEA0 /* KJMFileManager.h */,
+				03C8F0451A03597A00A2CEA0 /* KJMFileManager.m */,
+				0346716C1A0DC5FD002987B3 /* KJMSpentTimeManager.h */,
+				0346716D1A0DC5FD002987B3 /* KJMSpentTimeManager.m */,
+				036556621A05CF9700010979 /* CustomBottomButton.h */,
+				036556631A05CF9700010979 /* CustomBottomButton.m */,
+				036556651A05CFA400010979 /* CustomBottomButton.xib */,
+				034671171A0C3BF8002987B3 /* Line Objects */,
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
+		03D0287E19FEADB500DEA678 /* sound */ = {
+			isa = PBXGroup;
+			children = (
+				036556531A04A3CA00010979 /* もうすぐだよ.mp3 */,
+				03D0287F19FEADBD00DEA678 /* 電子音.mp3 */,
+				03D0288019FEADBD00DEA678 /* 猫の鳴き声.mp3 */,
+				03D0288219FEADBD00DEA678 /* いってらっしゃい.mp3 */,
+				03D0288319FEADBD00DEA678 /* おかえりなさい.mp3 */,
+				03049D781A030CCC001286DF /* 音なし.mp3 */,
+			);
+			name = sound;
+			sourceTree = "<group>";
+		};
+		03D0293F19FFB14000DEA678 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				03D77DC41A0F652200E8416D /* Manual@2x.png */,
+				031D633F1A0EFC6700FC2BE8 /* TanTan@2x.png */,
+				0346718A1A0E660C002987B3 /* turnA2@2x.png */,
+				031D633D1A0D412500FC2BE8 /* DefaultWithoutA@2x.png */,
+				034670EA1A0C351C002987B3 /* hukidasi01@2x.png */,
+				034670EB1A0C351C002987B3 /* hukidasi02@2x.png */,
+				034670EC1A0C351C002987B3 /* hukidasi03@2x.png */,
+				034670ED1A0C351C002987B3 /* hukidasi04@2x.png */,
+				034670EE1A0C351C002987B3 /* icon */,
+				034670FD1A0C351C002987B3 /* subway01@2x.png */,
+				034670FE1A0C351C002987B3 /* subway02@2x.png */,
+				034670FF1A0C351C002987B3 /* subway03@2x.png */,
+				034671001A0C351C002987B3 /* subway04@2x.png */,
+				036556831A07B85D00010979 /* StartTimerBK@2x.png */,
+				036556791A07B23200010979 /* Balloon@2x.png */,
+				0365567A1A07B23200010979 /* Rail@2x.png */,
+				0365567B1A07B23200010979 /* StartTimerBKView@2x.png */,
+				0365567C1A07B23200010979 /* Subway@2x.png */,
+				0365567D1A07B23200010979 /* TimerOKButton@2x.png */,
+				031D63351A070EAE00FC2BE8 /* EkiResultVerticalLine@2x.png */,
+				031D63361A070EAE00FC2BE8 /* EkiResultWaku@2x.png */,
+				031D63371A070EAE00FC2BE8 /* SaveBK2.png */,
+				031D633B1A0745F400FC2BE8 /* CommonBK@2x.png */,
+				0313C65A19FFF73C00CC63F3 /* TopLeftButton2@2x.png */,
+				03D0294019FFB14000DEA678 /* AlramMic_Off@2x.png */,
+				03D0294119FFB14000DEA678 /* AlramMic_On@2x.png */,
+				03D0294219FFB14000DEA678 /* AmberCircle@2x.png */,
+				03D0294319FFB14000DEA678 /* AmberCircle_On@2x.png */,
+				03D0294419FFB14000DEA678 /* AppInfomation@2x.png */,
+				03D0294519FFB14000DEA678 /* Arrow@2x.png */,
+				03D0294619FFB14000DEA678 /* BackButton@2x.png */,
+				03D0294719FFB14000DEA678 /* Background@2x.png */,
+				03D0294819FFB14000DEA678 /* BlueCircle@2x.png */,
+				03D0294919FFB14000DEA678 /* BlueCircle_On@2x.png */,
+				03D0294A19FFB14000DEA678 /* BottonCenterButton@2x.png */,
+				03D0294B19FFB14000DEA678 /* BottonLeftButton@2x.png */,
+				03D0294C19FFB14000DEA678 /* BottonRightButton@2x.png */,
+				03D0294D19FFB14000DEA678 /* CenterButton_Off@2x.png */,
+				03D0294E19FFB14000DEA678 /* CenterButton_On@2x.png */,
+				03D0294F19FFB14000DEA678 /* DarkGreenCircle@2x.png */,
+				03D0295019FFB14000DEA678 /* DarkGreenCircle_On@2x.png */,
+				03D0295119FFB14000DEA678 /* Default@2x.png */,
+				03C8F03F1A034F7200A2CEA0 /* Default.png */,
+				03D0295219FFB14000DEA678 /* GrayCircle@2x.png */,
+				03D0295319FFB14000DEA678 /* GrayCircle_On@2x.png */,
+				03D0295419FFB14000DEA678 /* GreenCircle@2x.png */,
+				03D0295519FFB14000DEA678 /* GreenCircle_On@2x.png */,
+				03D0295619FFB14000DEA678 /* Infomation@2x.png */,
+				03D0295719FFB14000DEA678 /* infomationArrow@2x.png */,
+				03D0295819FFB14000DEA678 /* InfomationBK@2x.png */,
+				03D0295919FFB14000DEA678 /* infomationBKLine@2x.png */,
+				03D0295A19FFB14000DEA678 /* InfomationCloseButton@2x.png */,
+				03D0295B19FFB14000DEA678 /* InputButtonBK@2x.png */,
+				03D0295C19FFB14000DEA678 /* KeyPad0@2x.png */,
+				03D0295D19FFB14000DEA678 /* KeyPad0_On@2x.png */,
+				03D0295E19FFB14000DEA678 /* KeyPad1@2x.png */,
+				03D0295F19FFB14000DEA678 /* KeyPad1_On@2x.png */,
+				03D0296019FFB14000DEA678 /* KeyPad2@2x.png */,
+				03D0296119FFB14000DEA678 /* KeyPad2_On@2x.png */,
+				03D0296219FFB14000DEA678 /* KeyPad3@2x.png */,
+				03D0296319FFB14000DEA678 /* KeyPad3_On@2x.png */,
+				03D0296419FFB14000DEA678 /* KeyPad4@2x.png */,
+				03D0296519FFB14000DEA678 /* KeyPad4_On@2x.png */,
+				03D0296619FFB14000DEA678 /* KeyPad5@2x.png */,
+				03D0296719FFB14000DEA678 /* KeyPad5_On@2x.png */,
+				03D0296819FFB14000DEA678 /* KeyPad6@2x.png */,
+				03D0296919FFB14000DEA678 /* KeyPad6_On@2x.png */,
+				03D0296A19FFB14000DEA678 /* KeyPad7@2x.png */,
+				03D0296B19FFB14000DEA678 /* KeyPad7_On@2x.png */,
+				03D0296C19FFB14000DEA678 /* KeyPad8@2x.png */,
+				03D0296D19FFB14000DEA678 /* KeyPad8_On@2x.png */,
+				03D0296E19FFB14000DEA678 /* KeyPad9@2x.png */,
+				03D0296F19FFB14000DEA678 /* KeyPad9_On@2x.png */,
+				03D0297019FFB14000DEA678 /* KeyPad@2x.png */,
+				03D0297119FFB14000DEA678 /* KeyPadBK@2x.png */,
+				03D0297219FFB14000DEA678 /* KeyPadClear@2x.png */,
+				03D0297319FFB14000DEA678 /* KeyPadClear_On@2x.png */,
+				03D0297419FFB14000DEA678 /* NotAddButton@2x.png */,
+				03D0297519FFB14000DEA678 /* OKButton@2x.png */,
+				03D0297619FFB14000DEA678 /* OrangeCircle@2x.png */,
+				03D0297719FFB14000DEA678 /* OrangeCircle_On@2x.png */,
+				03D0297819FFB14000DEA678 /* PurpleCircle@2x.png */,
+				03D0297919FFB14000DEA678 /* PurpleCircle_On@2x.png */,
+				03D0297A19FFB14000DEA678 /* RedCircle@2x.png */,
+				03D0297B19FFB14000DEA678 /* RedCircle_On@2x.png */,
+				03D029E219FFB7AC00DEA678 /* SaveBK3@2x.png */,
+				03D0297C19FFB14000DEA678 /* SaveBK2@2x.png */,
+				03D0297D19FFB14000DEA678 /* SaveBK@2x.png */,
+				03D0297E19FFB14000DEA678 /* SaveBottom@2x.png */,
+				03D0297F19FFB14000DEA678 /* SaveBottomLine@2x.png */,
+				03D0298019FFB14000DEA678 /* SaveTitleButton@2x.png */,
+				03D0298119FFB14000DEA678 /* SelectAlramBottomBK@2x.png */,
+				03D0298219FFB14000DEA678 /* SelectAlramBottomLine@2x.png */,
+				03D0298319FFB14000DEA678 /* SelectAlramCheckButton_Off@2x.png */,
+				03D0298419FFB14000DEA678 /* SelectAlramCheckButton_On@2x.png */,
+				03D0298519FFB14000DEA678 /* SelectAlramHorizonLine@2x.png */,
+				03D0298619FFB14000DEA678 /* SelectAlramMainBK@2x.png */,
+				03D0298719FFB14000DEA678 /* SelectAlramSoundBK@2x.png */,
+				03D0298819FFB14000DEA678 /* SelectAlramVerticalLine@2x.png */,
+				03D0298919FFB14000DEA678 /* SetTimerBK@2x.png */,
+				03D0298A19FFB14000DEA678 /* SoundChange@2x.png */,
+				03D0298B19FFB14000DEA678 /* TopLeftButton@2x.png */,
+				03D0298C19FFB14000DEA678 /* TopRightButton01@2x.png */,
+				03D0298D19FFB14000DEA678 /* TopRightButton02@2x.png */,
+				03D0298E19FFB14000DEA678 /* TopRightButton03@2x.png */,
+				0365565E1A05C8EF00010979 /* TrashiCon@2x.png */,
+				0365565F1A05C8EF00010979 /* TurnA@2x.png */,
+				03D0298F19FFB14000DEA678 /* YellowCircle@2x.png */,
+				03D0299019FFB14000DEA678 /* YellowCircle_On@2x.png */,
+				03049D641A030577001286DF /* Num0@2x.png */,
+				03049D651A030577001286DF /* Num1@2x.png */,
+				03049D661A030577001286DF /* Num2@2x.png */,
+				03049D671A030577001286DF /* Num3@2x.png */,
+				03049D681A030577001286DF /* Num4@2x.png */,
+				03049D691A030577001286DF /* Num5@2x.png */,
+				03049D6A1A030577001286DF /* Num6@2x.png */,
+				03F8FDA61A03850D00A63AFA /* Num7@2x.png */,
+				03049D6C1A030577001286DF /* Num8@2x.png */,
+				03049D6D1A030577001286DF /* Num9@2x.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		3D12BE1D1A07DD1D00B799DE /* maps */ = {
+			isa = PBXGroup;
+			children = (
+				3D12BE1E1A07DD1D00B799DE /* EkiName.txt */,
+				3D12BE1F1A07DD1D00B799DE /* EngName.txt */,
+				03D77DC11A0F4FA400E8416D /* HiraName.txt */,
+			);
+			path = maps;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0344EDAA19FB139300B0E922 /* KJ_MetroAlram */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0344EDCE19FB139300B0E922 /* Build configuration list for PBXNativeTarget "KJ_MetroAlram" */;
+			buildPhases = (
+				0344EDA719FB139300B0E922 /* Sources */,
+				0344EDA819FB139300B0E922 /* Frameworks */,
+				0344EDA919FB139300B0E922 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KJ_MetroAlram;
+			productName = KJ_MetroAlram;
+			productReference = 0344EDAB19FB139300B0E922 /* HA!.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0344EDC319FB139300B0E922 /* KJ_MetroAlramTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0344EDD119FB139300B0E922 /* Build configuration list for PBXNativeTarget "KJ_MetroAlramTests" */;
+			buildPhases = (
+				0344EDC019FB139300B0E922 /* Sources */,
+				0344EDC119FB139300B0E922 /* Frameworks */,
+				0344EDC219FB139300B0E922 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0344EDC619FB139300B0E922 /* PBXTargetDependency */,
+			);
+			name = KJ_MetroAlramTests;
+			productName = KJ_MetroAlramTests;
+			productReference = 0344EDC419FB139300B0E922 /* KJ_MetroAlramTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0344EDA319FB139300B0E922 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = KimGiBong;
+				TargetAttributes = {
+					0344EDAA19FB139300B0E922 = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					0344EDC319FB139300B0E922 = {
+						CreatedOnToolsVersion = 6.1;
+						TestTargetID = 0344EDAA19FB139300B0E922;
+					};
+				};
+			};
+			buildConfigurationList = 0344EDA619FB139300B0E922 /* Build configuration list for PBXProject "KJ_MetroAlram" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0344EDA219FB139300B0E922;
+			productRefGroup = 0344EDAC19FB139300B0E922 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0344EDAA19FB139300B0E922 /* KJ_MetroAlram */,
+				0344EDC319FB139300B0E922 /* KJ_MetroAlramTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0344EDA919FB139300B0E922 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03D029BA19FFB14000DEA678 /* KeyPad6_On@2x.png in Resources */,
+				034671111A0C351C002987B3 /* icon-76.png in Resources */,
+				036556601A05C8EF00010979 /* TrashiCon@2x.png in Resources */,
+				036556841A07B85D00010979 /* StartTimerBK@2x.png in Resources */,
+				03D029CC19FFB14000DEA678 /* RedCircle_On@2x.png in Resources */,
+				03D029CE19FFB14000DEA678 /* SaveBK@2x.png in Resources */,
+				03D029DE19FFB14000DEA678 /* TopRightButton02@2x.png in Resources */,
+				03D029A019FFB14000DEA678 /* DarkGreenCircle@2x.png in Resources */,
+				034671141A0C351C002987B3 /* subway02@2x.png in Resources */,
+				036556721A068E3300010979 /* AutoEkiInputViewController.xib in Resources */,
+				03D0299319FFB14000DEA678 /* AmberCircle@2x.png in Resources */,
+				03D029D819FFB14000DEA678 /* SelectAlramSoundBK@2x.png in Resources */,
+				03D029A819FFB14000DEA678 /* infomationArrow@2x.png in Resources */,
+				034671071A0C351C002987B3 /* icon-29@3x.png in Resources */,
+				03D029D019FFB14000DEA678 /* SaveBottomLine@2x.png in Resources */,
+				03D029A319FFB14000DEA678 /* GrayCircle@2x.png in Resources */,
+				03D0288719FEADBD00DEA678 /* いってらっしゃい.mp3 in Resources */,
+				03D029AF19FFB14000DEA678 /* KeyPad1@2x.png in Resources */,
+				03049D701A030577001286DF /* Num2@2x.png in Resources */,
+				034671761A0DF0FA002987B3 /* lineEkiKeyValue.plist in Resources */,
+				0346710B1A0C351C002987B3 /* icon-50.png in Resources */,
+				034671041A0C351C002987B3 /* hukidasi04@2x.png in Resources */,
+				03D029E319FFB7AC00DEA678 /* SaveBK3@2x.png in Resources */,
+				034671101A0C351C002987B3 /* icon-72@2x.png in Resources */,
+				03D029A519FFB14000DEA678 /* GreenCircle@2x.png in Resources */,
+				03D029C619FFB14000DEA678 /* OKButton@2x.png in Resources */,
+				03D029BF19FFB14000DEA678 /* KeyPad9@2x.png in Resources */,
+				031D633E1A0D412500FC2BE8 /* DefaultWithoutA@2x.png in Resources */,
+				0346710F1A0C351C002987B3 /* icon-72.png in Resources */,
+				03D0288819FEADBD00DEA678 /* おかえりなさい.mp3 in Resources */,
+				034671021A0C351C002987B3 /* hukidasi02@2x.png in Resources */,
+				03D0288419FEADBD00DEA678 /* 電子音.mp3 in Resources */,
+				03D0299F19FFB14000DEA678 /* CenterButton_On@2x.png in Resources */,
+				03D029BD19FFB14000DEA678 /* KeyPad8@2x.png in Resources */,
+				031D63391A070EAE00FC2BE8 /* EkiResultWaku@2x.png in Resources */,
+				03D0299719FFB14000DEA678 /* BackButton@2x.png in Resources */,
+				036556801A07B23200010979 /* StartTimerBKView@2x.png in Resources */,
+				03D029AC19FFB14000DEA678 /* InputButtonBK@2x.png in Resources */,
+				03D77DC21A0F4FA400E8416D /* HiraName.txt in Resources */,
+				03D0299619FFB14000DEA678 /* Arrow@2x.png in Resources */,
+				03D029D519FFB14000DEA678 /* SelectAlramCheckButton_On@2x.png in Resources */,
+				03D0299219FFB14000DEA678 /* AlramMic_On@2x.png in Resources */,
+				0344EE9519FD283300B0E922 /* AlramSelectionTableViewCell.xib in Resources */,
+				031D63381A070EAE00FC2BE8 /* EkiResultVerticalLine@2x.png in Resources */,
+				034671701A0DD253002987B3 /* MetoroSpentTime.json in Resources */,
+				0346710D1A0C351C002987B3 /* icon-57.png in Resources */,
+				03D0299D19FFB14000DEA678 /* BottonRightButton@2x.png in Resources */,
+				0344EE8619FCFACD00B0E922 /* AlramSelectionViewController.xib in Resources */,
+				03D029A219FFB14000DEA678 /* Default@2x.png in Resources */,
+				03D0299419FFB14000DEA678 /* AmberCircle_On@2x.png in Resources */,
+				03D029C219FFB14000DEA678 /* KeyPadBK@2x.png in Resources */,
+				0313C65B19FFF73C00CC63F3 /* TopLeftButton2@2x.png in Resources */,
+				03D77DC71A0F72DE00E8416D /* ManualViewController.xib in Resources */,
+				03D029B719FFB14000DEA678 /* KeyPad5@2x.png in Resources */,
+				034671051A0C351C002987B3 /* icon-29.png in Resources */,
+				03D029D419FFB14000DEA678 /* SelectAlramCheckButton_Off@2x.png in Resources */,
+				03D029C919FFB14000DEA678 /* PurpleCircle@2x.png in Resources */,
+				034671081A0C351C002987B3 /* icon-40.png in Resources */,
+				0346717A1A0E079B002987B3 /* KJMetroStationDetail.plist in Resources */,
+				031D63341A070B7800FC2BE8 /* EkiResultTableViewCell.xib in Resources */,
+				03049D761A030577001286DF /* Num8@2x.png in Resources */,
+				034671061A0C351C002987B3 /* icon-29@2x.png in Resources */,
+				03D029B119FFB14000DEA678 /* KeyPad2@2x.png in Resources */,
+				03D029CD19FFB14000DEA678 /* SaveBK2@2x.png in Resources */,
+				03D029DD19FFB14000DEA678 /* TopRightButton01@2x.png in Resources */,
+				03D029DC19FFB14000DEA678 /* TopLeftButton@2x.png in Resources */,
+				03D0299119FFB14000DEA678 /* AlramMic_Off@2x.png in Resources */,
+				03D029B619FFB14000DEA678 /* KeyPad4_On@2x.png in Resources */,
+				034671131A0C351C002987B3 /* subway01@2x.png in Resources */,
+				03D029C319FFB14000DEA678 /* KeyPadClear@2x.png in Resources */,
+				03D029B019FFB14000DEA678 /* KeyPad1_On@2x.png in Resources */,
+				0344EE8E19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.xib in Resources */,
+				03D029BE19FFB14000DEA678 /* KeyPad8_On@2x.png in Resources */,
+				03D029DF19FFB14000DEA678 /* TopRightButton03@2x.png in Resources */,
+				03D029A419FFB14000DEA678 /* GrayCircle_On@2x.png in Resources */,
+				03D029AE19FFB14000DEA678 /* KeyPad0_On@2x.png in Resources */,
+				03D0299519FFB14000DEA678 /* AppInfomation@2x.png in Resources */,
+				036556541A04A3CA00010979 /* もうすぐだよ.mp3 in Resources */,
+				03D029B419FFB14000DEA678 /* KeyPad3_On@2x.png in Resources */,
+				03D029C119FFB14000DEA678 /* KeyPad@2x.png in Resources */,
+				03D029E019FFB14000DEA678 /* YellowCircle@2x.png in Resources */,
+				03D029CA19FFB14000DEA678 /* PurpleCircle_On@2x.png in Resources */,
+				034671091A0C351C002987B3 /* icon-40@2x.png in Resources */,
+				03D029D219FFB14000DEA678 /* SelectAlramBottomBK@2x.png in Resources */,
+				03D029B919FFB14000DEA678 /* KeyPad6@2x.png in Resources */,
+				03D029B519FFB14000DEA678 /* KeyPad4@2x.png in Resources */,
+				03D029CF19FFB14000DEA678 /* SaveBottom@2x.png in Resources */,
+				03D029B319FFB14000DEA678 /* KeyPad3@2x.png in Resources */,
+				03D029A119FFB14000DEA678 /* DarkGreenCircle_On@2x.png in Resources */,
+				03D029AB19FFB14000DEA678 /* InfomationCloseButton@2x.png in Resources */,
+				031D633A1A070EAE00FC2BE8 /* SaveBK2.png in Resources */,
+				036556661A05CFA400010979 /* CustomBottomButton.xib in Resources */,
+				034671161A0C351C002987B3 /* subway04@2x.png in Resources */,
+				03D029C519FFB14000DEA678 /* NotAddButton@2x.png in Resources */,
+				03D029AA19FFB14000DEA678 /* infomationBKLine@2x.png in Resources */,
+				0346710C1A0C351C002987B3 /* icon-50@2x.png in Resources */,
+				03D029D119FFB14000DEA678 /* SaveTitleButton@2x.png in Resources */,
+				03D029A919FFB14000DEA678 /* InfomationBK@2x.png in Resources */,
+				03D029CB19FFB14000DEA678 /* RedCircle@2x.png in Resources */,
+				03D029C019FFB14000DEA678 /* KeyPad9_On@2x.png in Resources */,
+				03D029A719FFB14000DEA678 /* Infomation@2x.png in Resources */,
+				03049D771A030577001286DF /* Num9@2x.png in Resources */,
+				03D029BC19FFB14000DEA678 /* KeyPad7_On@2x.png in Resources */,
+				03D029BB19FFB14000DEA678 /* KeyPad7@2x.png in Resources */,
+				0346710A1A0C351C002987B3 /* icon-40@3x.png in Resources */,
+				03D029B219FFB14000DEA678 /* KeyPad2_On@2x.png in Resources */,
+				03F8FDA71A03850D00A63AFA /* Num7@2x.png in Resources */,
+				03D029D719FFB14000DEA678 /* SelectAlramMainBK@2x.png in Resources */,
+				0365565D1A04CE2700010979 /* InputModeViewController.xib in Resources */,
+				03D029C419FFB14000DEA678 /* KeyPadClear_On@2x.png in Resources */,
+				03049D6F1A030577001286DF /* Num1@2x.png in Resources */,
+				031D63401A0EFC6700FC2BE8 /* TanTan@2x.png in Resources */,
+				0346710E1A0C351C002987B3 /* icon-57@2x.png in Resources */,
+				0344EDBC19FB139300B0E922 /* Images.xcassets in Resources */,
+				03D029A619FFB14000DEA678 /* GreenCircle_On@2x.png in Resources */,
+				03049D791A030CCC001286DF /* 音なし.mp3 in Resources */,
+				03D77DC51A0F652200E8416D /* Manual@2x.png in Resources */,
+				036556781A07994000010979 /* StartTimerViewController.xib in Resources */,
+				0365567E1A07B23200010979 /* Balloon@2x.png in Resources */,
+				03049D711A030577001286DF /* Num3@2x.png in Resources */,
+				034671011A0C351C002987B3 /* hukidasi01@2x.png in Resources */,
+				03D0299C19FFB14000DEA678 /* BottonLeftButton@2x.png in Resources */,
+				03C8F0421A03580100A2CEA0 /* Settingtimers.plist in Resources */,
+				03049D741A030577001286DF /* Num6@2x.png in Resources */,
+				03C45FD51A01B53F00F24CF2 /* mplus-1p-regular.ttf in Resources */,
+				03D029D919FFB14000DEA678 /* SelectAlramVerticalLine@2x.png in Resources */,
+				03049D731A030577001286DF /* Num5@2x.png in Resources */,
+				03D029DB19FFB14000DEA678 /* SoundChange@2x.png in Resources */,
+				034671781A0DF2F5002987B3 /* lineEkiKeyValue_groupLine.plist in Resources */,
+				036556861A07C59A00010979 /* TypewriterSerial-Medium-Regular.ttf in Resources */,
+				03D0299A19FFB14000DEA678 /* BlueCircle_On@2x.png in Resources */,
+				034671721A0DD683002987B3 /* MetoroLine.json in Resources */,
+				0365567F1A07B23200010979 /* Rail@2x.png in Resources */,
+				03C8F0401A034F7200A2CEA0 /* Default.png in Resources */,
+				03049D6E1A030577001286DF /* Num0@2x.png in Resources */,
+				03D029D619FFB14000DEA678 /* SelectAlramHorizonLine@2x.png in Resources */,
+				03D0288519FEADBD00DEA678 /* 猫の鳴き声.mp3 in Resources */,
+				03D029E119FFB14000DEA678 /* YellowCircle_On@2x.png in Resources */,
+				036556611A05C8EF00010979 /* TurnA@2x.png in Resources */,
+				0346718B1A0E660C002987B3 /* turnA2@2x.png in Resources */,
+				03D0299819FFB14000DEA678 /* Background@2x.png in Resources */,
+				03D0288D19FF12E800DEA678 /* SaveViewController.xib in Resources */,
+				034671121A0C351C002987B3 /* icon-76@2x.png in Resources */,
+				034671151A0C351C002987B3 /* subway03@2x.png in Resources */,
+				03D029AD19FFB14000DEA678 /* KeyPad0@2x.png in Resources */,
+				03049D721A030577001286DF /* Num4@2x.png in Resources */,
+				03D029C719FFB14000DEA678 /* OrangeCircle@2x.png in Resources */,
+				3D12BE221A07DD1D00B799DE /* EngName.txt in Resources */,
+				034671031A0C351C002987B3 /* hukidasi03@2x.png in Resources */,
+				03D77DCB1A0F7C8500E8416D /* metro_stationDict.json in Resources */,
+				03D0299E19FFB14000DEA678 /* CenterButton_Off@2x.png in Resources */,
+				036556821A07B23200010979 /* TimerOKButton@2x.png in Resources */,
+				03D029DA19FFB14000DEA678 /* SetTimerBK@2x.png in Resources */,
+				031D633C1A0745F400FC2BE8 /* CommonBK@2x.png in Resources */,
+				3D12BE211A07DD1D00B799DE /* EkiName.txt in Resources */,
+				03D029B819FFB14000DEA678 /* KeyPad5_On@2x.png in Resources */,
+				03D029C819FFB14000DEA678 /* OrangeCircle_On@2x.png in Resources */,
+				03D0299919FFB14000DEA678 /* BlueCircle@2x.png in Resources */,
+				036556811A07B23200010979 /* Subway@2x.png in Resources */,
+				03D029D319FFB14000DEA678 /* SelectAlramBottomLine@2x.png in Resources */,
+				03D0299B19FFB14000DEA678 /* BottonCenterButton@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0344EDC219FB139300B0E922 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0344EDA719FB139300B0E922 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0313C65E19FFF99300CC63F3 /* SEManager.m in Sources */,
+				031D63331A070B7800FC2BE8 /* EkiResultTableViewCell.m in Sources */,
+				0346716E1A0DC5FD002987B3 /* KJMSpentTimeManager.m in Sources */,
+				0344EDB719FB139300B0E922 /* ViewController.m in Sources */,
+				036556771A07994000010979 /* StartTimerViewController.m in Sources */,
+				036556711A068E3300010979 /* AutoEkiInputViewController.m in Sources */,
+				034671871A0E50AD002987B3 /* KJMTextField.m in Sources */,
+				0346711D1A0C3C53002987B3 /* Via.m in Sources */,
+				03C45FDB1A01B63800F24CF2 /* KJMButton.m in Sources */,
+				0344EE8D19FCFBE800B0E922 /* AlramSelectionLastTableViewCell.m in Sources */,
+				03D0287D19FEA69C00DEA678 /* InfomationViewController.m in Sources */,
+				0346711A1A0C3C2E002987B3 /* Station.m in Sources */,
+				0344EE9419FD283300B0E922 /* AlramSelectionTableViewCell.m in Sources */,
+				0344EDB419FB139300B0E922 /* AppDelegate.m in Sources */,
+				0365565C1A04CE2700010979 /* InputModeViewController.m in Sources */,
+				03D0288C19FF12E800DEA678 /* SaveViewController.m in Sources */,
+				03C8F0461A03597A00A2CEA0 /* KJMFileManager.m in Sources */,
+				034671841A0E4CEF002987B3 /* ManualViewController.m in Sources */,
+				0344EDB119FB139300B0E922 /* main.m in Sources */,
+				036556641A05CF9700010979 /* CustomBottomButton.m in Sources */,
+				03C45FDC1A01B63800F24CF2 /* KJMLabel.m in Sources */,
+				0344EE8519FCFACD00B0E922 /* AlramSelectionViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0344EDC019FB139300B0E922 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0344EDCB19FB139300B0E922 /* KJ_MetroAlramTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0344EDC619FB139300B0E922 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0344EDAA19FB139300B0E922 /* KJ_MetroAlram */;
+			targetProxy = 0344EDC519FB139300B0E922 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0344EDB819FB139300B0E922 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0344EDB919FB139300B0E922 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0344EDBD19FB139300B0E922 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0344EDBE19FB139300B0E922 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0344EDCC19FB139300B0E922 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: YONGSUK KIM (33RF55B85H)";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "1e7c4c21-c705-46a5-80a2-a70a9a199b88";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0344EDCD19FB139300B0E922 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: YONGSUK KIM (33RF55B85H)";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "1e7c4c21-c705-46a5-80a2-a70a9a199b88";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0344EDCF19FB139300B0E922 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = KJ_MetroAlram/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "HA!";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		0344EDD019FB139300B0E922 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: YONGSUK KIM (Y8RKPBJ3Y3)";
+				INFOPLIST_FILE = KJ_MetroAlram/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "HA!";
+				PROVISIONING_PROFILE = "65ba8260-37cc-46d8-b540-a667ad7a5a87";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		0344EDD219FB139300B0E922 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = KJ_MetroAlramTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HA!.app/HA!";
+			};
+			name = Debug;
+		};
+		0344EDD319FB139300B0E922 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = KJ_MetroAlramTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HA!.app/HA!";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0344EDA619FB139300B0E922 /* Build configuration list for PBXProject "KJ_MetroAlram" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0344EDCC19FB139300B0E922 /* Debug */,
+				0344EDCD19FB139300B0E922 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0344EDCE19FB139300B0E922 /* Build configuration list for PBXNativeTarget "KJ_MetroAlram" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0344EDCF19FB139300B0E922 /* Debug */,
+				0344EDD019FB139300B0E922 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0344EDD119FB139300B0E922 /* Build configuration list for PBXNativeTarget "KJ_MetroAlramTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0344EDD219FB139300B0E922 /* Debug */,
+				0344EDD319FB139300B0E922 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0344EDA319FB139300B0E922 /* Project object */;
+}

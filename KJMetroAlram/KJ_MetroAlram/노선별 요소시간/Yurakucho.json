@@ -1,0 +1,280 @@
+{
+    "TokyoMetro.Yurakucho": [
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Wakoshi",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.ChikatetsuNarimasu",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.ChikatetsuNarimasu",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.ChikatetsuAkatsuka",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.ChikatetsuAkatsuka",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Heiwadai",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Heiwadai",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Hikawadai",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Hikawadai",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.KotakeMukaihara",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.KotakeMukaihara",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Senkawa",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Senkawa",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Kanamecho",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Kanamecho",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Ikebukuro",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Ikebukuro",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.HigashiIkebukuro",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.HigashiIkebukuro",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Gokokuji",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Gokokuji",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Edogawabashi",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Edogawabashi",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Iidabashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Iidabashi",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Ichigaya",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Ichigaya",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Kojimachi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Kojimachi",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Nagatacho",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Nagatacho",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Sakuradamon",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Sakuradamon",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Yurakucho",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Yurakucho",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.GinzaItchome",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.GinzaItchome",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Shintomicho",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Shintomicho",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Tsukishima",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Tsukishima",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Toyosu",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Toyosu",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Tatsumi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Tatsumi",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.ShinKiba",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.ShinKiba",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Tatsumi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Tatsumi",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Toyosu",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Toyosu",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Tsukishima",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Tsukishima",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Shintomicho",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Shintomicho",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.GinzaItchome",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.GinzaItchome",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Yurakucho",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Yurakucho",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Sakuradamon",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Sakuradamon",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Nagatacho",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Nagatacho",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Kojimachi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Kojimachi",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Ichigaya",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Ichigaya",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Iidabashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Iidabashi",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Edogawabashi",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Edogawabashi",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Gokokuji",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Gokokuji",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.HigashiIkebukuro",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.HigashiIkebukuro",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Ikebukuro",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Ikebukuro",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Kanamecho",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Kanamecho",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Senkawa",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Senkawa",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.KotakeMukaihara",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.KotakeMukaihara",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Hikawadai",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Hikawadai",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Heiwadai",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.Heiwadai",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.ChikatetsuAkatsuka",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.ChikatetsuAkatsuka",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.ChikatetsuNarimasu",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         },
+                         {
+                         "odpt:fromStation": "odpt.Station:TokyoMetro.Yurakucho.ChikatetsuNarimasu",
+                         "odpt:toStation": "odpt.Station:TokyoMetro.Yurakucho.Wakoshi",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "odpt.TrainType:Local"
+                         }
+                         ]
+}

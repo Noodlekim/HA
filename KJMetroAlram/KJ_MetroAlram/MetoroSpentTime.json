@@ -1,0 +1,2362 @@
+{
+    "TokyoMetro.Chiyoda": [
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.YoyogiUehara",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.YoyogiKoen",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.YoyogiKoen",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.MeijiJingumae",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.MeijiJingumae",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.OmoteSando",
+                           "odpt:necessaryTime": 1,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.OmoteSando",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Nogizaka",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Nogizaka",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Akasaka",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Akasaka",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.KokkaiGijidomae",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.KokkaiGijidomae",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Kasumigaseki",
+                           "odpt:necessaryTime": 1,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Kasumigaseki",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Hibiya",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Hibiya",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Nijubashimae",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Nijubashimae",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Otemachi",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Otemachi",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.ShinOchanomizu",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.ShinOchanomizu",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Yushima",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Yushima",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Nezu",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Nezu",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Sendagi",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Sendagi",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.NishiNippori",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.NishiNippori",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Machiya",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Machiya",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.KitaSenju",
+                           "odpt:necessaryTime": 4,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.KitaSenju",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Ayase",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Ayase",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.KitaAyase",
+                           "odpt:necessaryTime": 4,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.KitaAyase",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Ayase",
+                           "odpt:necessaryTime": 4,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Ayase",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.KitaSenju",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.KitaSenju",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Machiya",
+                           "odpt:necessaryTime": 4,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Machiya",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.NishiNippori",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.NishiNippori",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Sendagi",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Sendagi",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Nezu",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Nezu",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Yushima",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Yushima",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.ShinOchanomizu",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.ShinOchanomizu",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Otemachi",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Otemachi",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Nijubashimae",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Nijubashimae",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Hibiya",
+                           "odpt:necessaryTime": 1,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Hibiya",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Kasumigaseki",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Kasumigaseki",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.KokkaiGijidomae",
+                           "odpt:necessaryTime": 1,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.KokkaiGijidomae",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Akasaka",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Akasaka",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.Nogizaka",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.Nogizaka",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.OmoteSando",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.OmoteSando",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.MeijiJingumae",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.MeijiJingumae",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.YoyogiKoen",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Chiyoda.YoyogiKoen",
+                           "odpt:toStation": "TokyoMetro.Chiyoda.YoyogiUehara",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           }
+                           ],
+    "TokyoMetro.Fukutoshin": [
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Wakoshi",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.ChikatetsuNarimasu",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.ChikatetsuNarimasu",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.ChikatetsuAkatsuka",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.ChikatetsuAkatsuka",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Heiwadai",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Heiwadai",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Hikawadai",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Hikawadai",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.KotakeMukaihara",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.KotakeMukaihara",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Senkawa",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Senkawa",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Kanamecho",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Kanamecho",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Ikebukuro",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Ikebukuro",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Zoshigaya",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Zoshigaya",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.NishiWaseda",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.NishiWaseda",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.HigashiShinjuku",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.HigashiShinjuku",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.KitaSando",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.KitaSando",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.MeijiJingumae",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.MeijiJingumae",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Shibuya",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Shibuya",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.MeijiJingumae",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.MeijiJingumae",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.KitaSando",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.KitaSando",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.HigashiShinjuku",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.HigashiShinjuku",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.NishiWaseda",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.NishiWaseda",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Zoshigaya",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Zoshigaya",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Ikebukuro",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Ikebukuro",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Kanamecho",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Kanamecho",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Senkawa",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Senkawa",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.KotakeMukaihara",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.KotakeMukaihara",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Hikawadai",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Hikawadai",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Heiwadai",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Heiwadai",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.ChikatetsuAkatsuka",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.ChikatetsuAkatsuka",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.ChikatetsuNarimasu",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.ChikatetsuNarimasu",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Wakoshi",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Wakoshi",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.KotakeMukaihara",
+                              "odpt:necessaryTime": 9,
+                              "odpt:trainType": "Express"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.KotakeMukaihara",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Ikebukuro",
+                              "odpt:necessaryTime": 5,
+                              "odpt:trainType": "Express"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Ikebukuro",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                              "odpt:necessaryTime": 6,
+                              "odpt:trainType": "Express"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.MeijiJingumae",
+                              "odpt:necessaryTime": 4,
+                              "odpt:trainType": "Express"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.MeijiJingumae",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Shibuya",
+                              "odpt:necessaryTime": 1,
+                              "odpt:trainType": "Express"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Shibuya",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.MeijiJingumae",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Express"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.MeijiJingumae",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Express"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Ikebukuro",
+                              "odpt:necessaryTime": 6,
+                              "odpt:trainType": "Express"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.Ikebukuro",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.KotakeMukaihara",
+                              "odpt:necessaryTime": 4,
+                              "odpt:trainType": "Express"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Fukutoshin.KotakeMukaihara",
+                              "odpt:toStation": "TokyoMetro.Fukutoshin.Wakoshi",
+                              "odpt:necessaryTime": 10,
+                              "odpt:trainType": "Express"
+                              }
+                              ],
+    "TokyoMetro.Ginza": [
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Shibuya",
+                         "odpt:toStation": "TokyoMetro.Ginza.OmoteSando",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.OmoteSando",
+                         "odpt:toStation": "TokyoMetro.Ginza.Gaiemmae",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Gaiemmae",
+                         "odpt:toStation": "TokyoMetro.Ginza.AoyamaItchome",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.AoyamaItchome",
+                         "odpt:toStation": "TokyoMetro.Ginza.AkasakaMitsuke",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.AkasakaMitsuke",
+                         "odpt:toStation": "TokyoMetro.Ginza.TameikeSanno",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.TameikeSanno",
+                         "odpt:toStation": "TokyoMetro.Ginza.Toranomon",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Toranomon",
+                         "odpt:toStation": "TokyoMetro.Ginza.Shimbashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Shimbashi",
+                         "odpt:toStation": "TokyoMetro.Ginza.Ginza",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Ginza",
+                         "odpt:toStation": "TokyoMetro.Ginza.Kyobashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Kyobashi",
+                         "odpt:toStation": "TokyoMetro.Ginza.Nihombashi",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Nihombashi",
+                         "odpt:toStation": "TokyoMetro.Ginza.Mitsukoshimae",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Mitsukoshimae",
+                         "odpt:toStation": "TokyoMetro.Ginza.Kanda",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Kanda",
+                         "odpt:toStation": "TokyoMetro.Ginza.Suehirocho",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Suehirocho",
+                         "odpt:toStation": "TokyoMetro.Ginza.UenoHirokoji",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.UenoHirokoji",
+                         "odpt:toStation": "TokyoMetro.Ginza.Ueno",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Ueno",
+                         "odpt:toStation": "TokyoMetro.Ginza.Inaricho",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Inaricho",
+                         "odpt:toStation": "TokyoMetro.Ginza.Tawaramachi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Tawaramachi",
+                         "odpt:toStation": "TokyoMetro.Ginza.Asakusa",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Asakusa",
+                         "odpt:toStation": "TokyoMetro.Ginza.Tawaramachi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Tawaramachi",
+                         "odpt:toStation": "TokyoMetro.Ginza.Inaricho",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Inaricho",
+                         "odpt:toStation": "TokyoMetro.Ginza.Ueno",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Ueno",
+                         "odpt:toStation": "TokyoMetro.Ginza.UenoHirokoji",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.UenoHirokoji",
+                         "odpt:toStation": "TokyoMetro.Ginza.Suehirocho",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Suehirocho",
+                         "odpt:toStation": "TokyoMetro.Ginza.Kanda",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Kanda",
+                         "odpt:toStation": "TokyoMetro.Ginza.Mitsukoshimae",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Mitsukoshimae",
+                         "odpt:toStation": "TokyoMetro.Ginza.Nihombashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Nihombashi",
+                         "odpt:toStation": "TokyoMetro.Ginza.Kyobashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Kyobashi",
+                         "odpt:toStation": "TokyoMetro.Ginza.Ginza",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Ginza",
+                         "odpt:toStation": "TokyoMetro.Ginza.Shimbashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Shimbashi",
+                         "odpt:toStation": "TokyoMetro.Ginza.Toranomon",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Toranomon",
+                         "odpt:toStation": "TokyoMetro.Ginza.TameikeSanno",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.TameikeSanno",
+                         "odpt:toStation": "TokyoMetro.Ginza.AkasakaMitsuke",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.AkasakaMitsuke",
+                         "odpt:toStation": "TokyoMetro.Ginza.AoyamaItchome",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.AoyamaItchome",
+                         "odpt:toStation": "TokyoMetro.Ginza.Gaiemmae",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.Gaiemmae",
+                         "odpt:toStation": "TokyoMetro.Ginza.OmoteSando",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Ginza.OmoteSando",
+                         "odpt:toStation": "TokyoMetro.Ginza.Shibuya",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         }
+                         ],
+    "TokyoMetro.Hanzomon": [
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Shibuya",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.OmoteSando",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.OmoteSando",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.AoyamaItchome",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.AoyamaItchome",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Nagatacho",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Nagatacho",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Hanzomon",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Hanzomon",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Kudanshita",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Kudanshita",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Jimbocho",
+                            "odpt:necessaryTime": 1,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Jimbocho",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Otemachi",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Otemachi",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Mitsukoshimae",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Mitsukoshimae",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Suitengumae",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Suitengumae",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.KiyosumiShirakawa",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.KiyosumiShirakawa",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Sumiyoshi",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Sumiyoshi",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Kinshicho",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Kinshicho",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Oshiage",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Oshiage",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Kinshicho",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Kinshicho",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Sumiyoshi",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Sumiyoshi",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.KiyosumiShirakawa",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.KiyosumiShirakawa",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Suitengumae",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Suitengumae",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Mitsukoshimae",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Mitsukoshimae",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Otemachi",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Otemachi",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Jimbocho",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Jimbocho",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Kudanshita",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Kudanshita",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Hanzomon",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Hanzomon",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Nagatacho",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.Nagatacho",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.AoyamaItchome",
+                            "odpt:necessaryTime": 3,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.AoyamaItchome",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.OmoteSando",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            },
+                            {
+                            "odpt:fromStation": "TokyoMetro.Hanzomon.OmoteSando",
+                            "odpt:toStation": "TokyoMetro.Hanzomon.Shibuya",
+                            "odpt:necessaryTime": 2,
+                            "odpt:trainType": "Local"
+                            }
+                            ],
+    "TokyoMetro.Hibiya": [
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.NakaMeguro",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Ebisu",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Ebisu",
+                          "odpt:toStation": "TokyoMetro.Hibiya.HiroO",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.HiroO",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Roppongi",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Roppongi",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Kamiyacho",
+                          "odpt:necessaryTime": 4,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Kamiyacho",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Kasumigaseki",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Kasumigaseki",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Hibiya",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Hibiya",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Ginza",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Ginza",
+                          "odpt:toStation": "TokyoMetro.Hibiya.HigashiGinza",
+                          "odpt:necessaryTime": 1,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.HigashiGinza",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Tsukiji",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Tsukiji",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Hatchobori",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Hatchobori",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Kayabacho",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Kayabacho",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Ningyocho",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Ningyocho",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Kodemmacho",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Kodemmacho",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Akihabara",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Akihabara",
+                          "odpt:toStation": "TokyoMetro.Hibiya.NakaOkachimachi",
+                          "odpt:necessaryTime": 1,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.NakaOkachimachi",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Ueno",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Ueno",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Iriya",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Iriya",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Minowa",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Minowa",
+                          "odpt:toStation": "TokyoMetro.Hibiya.MinamiSenju",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.MinamiSenju",
+                          "odpt:toStation": "TokyoMetro.Hibiya.KitaSenju",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.KitaSenju",
+                          "odpt:toStation": "TokyoMetro.Hibiya.MinamiSenju",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.MinamiSenju",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Minowa",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Minowa",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Iriya",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Iriya",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Ueno",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Ueno",
+                          "odpt:toStation": "TokyoMetro.Hibiya.NakaOkachimachi",
+                          "odpt:necessaryTime": 1,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.NakaOkachimachi",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Akihabara",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Akihabara",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Kodemmacho",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Kodemmacho",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Ningyocho",
+                          "odpt:necessaryTime": 1,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Ningyocho",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Kayabacho",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Kayabacho",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Hatchobori",
+                          "odpt:necessaryTime": 1,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Hatchobori",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Tsukiji",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Tsukiji",
+                          "odpt:toStation": "TokyoMetro.Hibiya.HigashiGinza",
+                          "odpt:necessaryTime": 1,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.HigashiGinza",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Ginza",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Ginza",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Hibiya",
+                          "odpt:necessaryTime": 1,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Hibiya",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Kasumigaseki",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Kasumigaseki",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Kamiyacho",
+                          "odpt:necessaryTime": 2,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Kamiyacho",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Roppongi",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Roppongi",
+                          "odpt:toStation": "TokyoMetro.Hibiya.HiroO",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.HiroO",
+                          "odpt:toStation": "TokyoMetro.Hibiya.Ebisu",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          },
+                          {
+                          "odpt:fromStation": "TokyoMetro.Hibiya.Ebisu",
+                          "odpt:toStation": "TokyoMetro.Hibiya.NakaMeguro",
+                          "odpt:necessaryTime": 3,
+                          "odpt:trainType": "Local"
+                          }
+                          ],
+    "TokyoMetro.Marunouchi": [
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Ogikubo",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.MinamiAsagaya",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.MinamiAsagaya",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.ShinKoenji",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.ShinKoenji",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.HigashiKoenji",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.HigashiKoenji",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.ShinNakano",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.ShinNakano",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.NakanoSakaue",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.NakanoSakaue",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.NishiShinjuku",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.NishiShinjuku",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Shinjuku",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Shinjuku",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.ShinjukuSanchome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.ShinjukuSanchome",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.ShinjukuGyoemmae",
+                              "odpt:necessaryTime": 1,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.ShinjukuGyoemmae",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.YotsuyaSanchome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.YotsuyaSanchome",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Yotsuya",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Yotsuya",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.AkasakaMitsuke",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.AkasakaMitsuke",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.KokkaiGijidomae",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.KokkaiGijidomae",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Kasumigaseki",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Kasumigaseki",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Ginza",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Ginza",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Tokyo",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Tokyo",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Otemachi",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Otemachi",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Awajicho",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Awajicho",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Ochanomizu",
+                              "odpt:necessaryTime": 1,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Ochanomizu",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.HongoSanchome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.HongoSanchome",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Korakuen",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Korakuen",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Myogadani",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Myogadani",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.ShinOtsuka",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.ShinOtsuka",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Ikebukuro",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Ikebukuro",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.ShinOtsuka",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.ShinOtsuka",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Myogadani",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Myogadani",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Korakuen",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Korakuen",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.HongoSanchome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.HongoSanchome",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Ochanomizu",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Ochanomizu",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Awajicho",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Awajicho",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Otemachi",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Otemachi",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Tokyo",
+                              "odpt:necessaryTime": 1,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Tokyo",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Ginza",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Ginza",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Kasumigaseki",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Kasumigaseki",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.KokkaiGijidomae",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.KokkaiGijidomae",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.AkasakaMitsuke",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.AkasakaMitsuke",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Yotsuya",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Yotsuya",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.YotsuyaSanchome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.YotsuyaSanchome",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.ShinjukuGyoemmae",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.ShinjukuGyoemmae",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.ShinjukuSanchome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.ShinjukuSanchome",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Shinjuku",
+                              "odpt:necessaryTime": 1,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.Shinjuku",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.NishiShinjuku",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.NishiShinjuku",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.NakanoSakaue",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.NakanoSakaue",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.ShinNakano",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.ShinNakano",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.HigashiKoenji",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.HigashiKoenji",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.ShinKoenji",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.ShinKoenji",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.MinamiAsagaya",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "Local"
+                              },
+                              {
+                              "odpt:fromStation": "TokyoMetro.Marunouchi.MinamiAsagaya",
+                              "odpt:toStation": "TokyoMetro.Marunouchi.Ogikubo",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "Local"
+                              }
+                              ],
+    "TokyoMetro.Marunouchi2": [
+                               {
+                               "odpt:fromStation": "TokyoMetro.MarunouchiBranch.Honancho",
+                               "odpt:toStation": "TokyoMetro.MarunouchiBranch.NakanoFujimicho",
+                               "odpt:necessaryTime": 2,
+                               "odpt:trainType": "Local"
+                               },
+                               {
+                               "odpt:fromStation": "TokyoMetro.MarunouchiBranch.NakanoFujimicho",
+                               "odpt:toStation": "TokyoMetro.MarunouchiBranch.NakanoShimbashi",
+                               "odpt:necessaryTime": 2,
+                               "odpt:trainType": "Local"
+                               },
+                               {
+                               "odpt:fromStation": "TokyoMetro.MarunouchiBranch.NakanoShimbashi",
+                               "odpt:toStation": "TokyoMetro.MarunouchiBranch.NakanoSakaue",
+                               "odpt:necessaryTime": 2,
+                               "odpt:trainType": "Local"
+                               },
+                               {
+                               "odpt:fromStation": "TokyoMetro.MarunouchiBranch.NakanoSakaue",
+                               "odpt:toStation": "TokyoMetro.MarunouchiBranch.NakanoShimbashi",
+                               "odpt:necessaryTime": 2,
+                               "odpt:trainType": "Local"
+                               },
+                               {
+                               "odpt:fromStation": "TokyoMetro.MarunouchiBranch.NakanoShimbashi",
+                               "odpt:toStation": "TokyoMetro.MarunouchiBranch.NakanoFujimicho",
+                               "odpt:necessaryTime": 2,
+                               "odpt:trainType": "Local"
+                               },
+                               {
+                               "odpt:fromStation": "TokyoMetro.MarunouchiBranch.NakanoFujimicho",
+                               "odpt:toStation": "TokyoMetro.MarunouchiBranch.Honancho",
+                               "odpt:necessaryTime": 2,
+                               "odpt:trainType": "Local"
+                               }
+                               ],
+    "TokyoMetro.Namboku": [
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Meguro",
+                           "odpt:toStation": "TokyoMetro.Namboku.Shirokanedai",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Shirokanedai",
+                           "odpt:toStation": "TokyoMetro.Namboku.ShirokaneTakanawa",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.ShirokaneTakanawa",
+                           "odpt:toStation": "TokyoMetro.Namboku.AzabuJuban",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.AzabuJuban",
+                           "odpt:toStation": "TokyoMetro.Namboku.RoppongiItchome",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.RoppongiItchome",
+                           "odpt:toStation": "TokyoMetro.Namboku.TameikeSanno",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.TameikeSanno",
+                           "odpt:toStation": "TokyoMetro.Namboku.Nagatacho",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Nagatacho",
+                           "odpt:toStation": "TokyoMetro.Namboku.Yotsuya",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Yotsuya",
+                           "odpt:toStation": "TokyoMetro.Namboku.Ichigaya",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Ichigaya",
+                           "odpt:toStation": "TokyoMetro.Namboku.Iidabashi",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Iidabashi",
+                           "odpt:toStation": "TokyoMetro.Namboku.Korakuen",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Korakuen",
+                           "odpt:toStation": "TokyoMetro.Namboku.Todaimae",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Todaimae",
+                           "odpt:toStation": "TokyoMetro.Namboku.HonKomagome",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.HonKomagome",
+                           "odpt:toStation": "TokyoMetro.Namboku.Komagome",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Komagome",
+                           "odpt:toStation": "TokyoMetro.Namboku.Nishigahara",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Nishigahara",
+                           "odpt:toStation": "TokyoMetro.Namboku.Oji",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Oji",
+                           "odpt:toStation": "TokyoMetro.Namboku.OjiKamiya",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.OjiKamiya",
+                           "odpt:toStation": "TokyoMetro.Namboku.Shimo",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Shimo",
+                           "odpt:toStation": "TokyoMetro.Namboku.AkabaneIwabuchi",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.AkabaneIwabuchi",
+                           "odpt:toStation": "TokyoMetro.Namboku.Shimo",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Shimo",
+                           "odpt:toStation": "TokyoMetro.Namboku.OjiKamiya",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.OjiKamiya",
+                           "odpt:toStation": "TokyoMetro.Namboku.Oji",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Oji",
+                           "odpt:toStation": "TokyoMetro.Namboku.Nishigahara",
+                           "odpt:necessaryTime": 1,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Nishigahara",
+                           "odpt:toStation": "TokyoMetro.Namboku.Komagome",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Komagome",
+                           "odpt:toStation": "TokyoMetro.Namboku.HonKomagome",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.HonKomagome",
+                           "odpt:toStation": "TokyoMetro.Namboku.Todaimae",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Todaimae",
+                           "odpt:toStation": "TokyoMetro.Namboku.Korakuen",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Korakuen",
+                           "odpt:toStation": "TokyoMetro.Namboku.Iidabashi",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Iidabashi",
+                           "odpt:toStation": "TokyoMetro.Namboku.Ichigaya",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Ichigaya",
+                           "odpt:toStation": "TokyoMetro.Namboku.Yotsuya",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Yotsuya",
+                           "odpt:toStation": "TokyoMetro.Namboku.Nagatacho",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Nagatacho",
+                           "odpt:toStation": "TokyoMetro.Namboku.TameikeSanno",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.TameikeSanno",
+                           "odpt:toStation": "TokyoMetro.Namboku.RoppongiItchome",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.RoppongiItchome",
+                           "odpt:toStation": "TokyoMetro.Namboku.AzabuJuban",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.AzabuJuban",
+                           "odpt:toStation": "TokyoMetro.Namboku.ShirokaneTakanawa",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.ShirokaneTakanawa",
+                           "odpt:toStation": "TokyoMetro.Namboku.Shirokanedai",
+                           "odpt:necessaryTime": 3,
+                           "odpt:trainType": "Local"
+                           },
+                           {
+                           "odpt:fromStation": "TokyoMetro.Namboku.Shirokanedai",
+                           "odpt:toStation": "TokyoMetro.Namboku.Meguro",
+                           "odpt:necessaryTime": 2,
+                           "odpt:trainType": "Local"
+                           }
+                           ],
+    "TokyoMetro.Tozai": [
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Nakano",
+                         "odpt:toStation": "TokyoMetro.Tozai.Ochiai",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Ochiai",
+                         "odpt:toStation": "TokyoMetro.Tozai.Takadanobaba",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Takadanobaba",
+                         "odpt:toStation": "TokyoMetro.Tozai.Waseda",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Waseda",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kagurazaka",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kagurazaka",
+                         "odpt:toStation": "TokyoMetro.Tozai.Iidabashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Iidabashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kudanshita",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kudanshita",
+                         "odpt:toStation": "TokyoMetro.Tozai.Takebashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Takebashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Otemachi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Otemachi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Nihombashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Nihombashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kayabacho",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kayabacho",
+                         "odpt:toStation": "TokyoMetro.Tozai.MonzenNakacho",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.MonzenNakacho",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kiba",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kiba",
+                         "odpt:toStation": "TokyoMetro.Tozai.Toyocho",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Toyocho",
+                         "odpt:toStation": "TokyoMetro.Tozai.MinamiSunamachi",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.MinamiSunamachi",
+                         "odpt:toStation": "TokyoMetro.Tozai.NishiKasai",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.NishiKasai",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kasai",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kasai",
+                         "odpt:toStation": "TokyoMetro.Tozai.Urayasu",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Urayasu",
+                         "odpt:toStation": "TokyoMetro.Tozai.MinamiGyotoku",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.MinamiGyotoku",
+                         "odpt:toStation": "TokyoMetro.Tozai.Gyotoku",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Gyotoku",
+                         "odpt:toStation": "TokyoMetro.Tozai.Myoden",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Myoden",
+                         "odpt:toStation": "TokyoMetro.Tozai.BarakiNakayama",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.BarakiNakayama",
+                         "odpt:toStation": "TokyoMetro.Tozai.NishiFunabashi",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.NishiFunabashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.BarakiNakayama",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.BarakiNakayama",
+                         "odpt:toStation": "TokyoMetro.Tozai.Myoden",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Myoden",
+                         "odpt:toStation": "TokyoMetro.Tozai.Gyotoku",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Gyotoku",
+                         "odpt:toStation": "TokyoMetro.Tozai.MinamiGyotoku",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.MinamiGyotoku",
+                         "odpt:toStation": "TokyoMetro.Tozai.Urayasu",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Urayasu",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kasai",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kasai",
+                         "odpt:toStation": "TokyoMetro.Tozai.NishiKasai",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.NishiKasai",
+                         "odpt:toStation": "TokyoMetro.Tozai.MinamiSunamachi",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.MinamiSunamachi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Toyocho",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Toyocho",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kiba",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kiba",
+                         "odpt:toStation": "TokyoMetro.Tozai.MonzenNakacho",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.MonzenNakacho",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kayabacho",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kayabacho",
+                         "odpt:toStation": "TokyoMetro.Tozai.Nihombashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Nihombashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Otemachi",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Otemachi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Takebashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Takebashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kudanshita",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kudanshita",
+                         "odpt:toStation": "TokyoMetro.Tozai.Iidabashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Iidabashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kagurazaka",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kagurazaka",
+                         "odpt:toStation": "TokyoMetro.Tozai.Waseda",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Waseda",
+                         "odpt:toStation": "TokyoMetro.Tozai.Takadanobaba",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Takadanobaba",
+                         "odpt:toStation": "TokyoMetro.Tozai.Ochiai",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Ochiai",
+                         "odpt:toStation": "TokyoMetro.Tozai.Nakano",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Local"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Nakano",
+                         "odpt:toStation": "TokyoMetro.Tozai.Ochiai",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Ochiai",
+                         "odpt:toStation": "TokyoMetro.Tozai.Takadanobaba",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Takadanobaba",
+                         "odpt:toStation": "TokyoMetro.Tozai.Waseda",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Waseda",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kagurazaka",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kagurazaka",
+                         "odpt:toStation": "TokyoMetro.Tozai.Iidabashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Iidabashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kudanshita",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kudanshita",
+                         "odpt:toStation": "TokyoMetro.Tozai.Takebashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Takebashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Otemachi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Otemachi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Nihombashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Nihombashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kayabacho",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kayabacho",
+                         "odpt:toStation": "TokyoMetro.Tozai.MonzenNakacho",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.MonzenNakacho",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kiba",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kiba",
+                         "odpt:toStation": "TokyoMetro.Tozai.Toyocho",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Toyocho",
+                         "odpt:toStation": "TokyoMetro.Tozai.Urayasu",
+                         "odpt:necessaryTime": 7,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Urayasu",
+                         "odpt:toStation": "TokyoMetro.Tozai.NishiFunabashi",
+                         "odpt:necessaryTime": 8,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.NishiFunabashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Urayasu",
+                         "odpt:necessaryTime": 7,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Urayasu",
+                         "odpt:toStation": "TokyoMetro.Tozai.Toyocho",
+                         "odpt:necessaryTime": 7,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Toyocho",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kiba",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kiba",
+                         "odpt:toStation": "TokyoMetro.Tozai.MonzenNakacho",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.MonzenNakacho",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kayabacho",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kayabacho",
+                         "odpt:toStation": "TokyoMetro.Tozai.Nihombashi",
+                         "odpt:necessaryTime": 1,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Nihombashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Otemachi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Otemachi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Takebashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Takebashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kudanshita",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kudanshita",
+                         "odpt:toStation": "TokyoMetro.Tozai.Iidabashi",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Iidabashi",
+                         "odpt:toStation": "TokyoMetro.Tozai.Kagurazaka",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Kagurazaka",
+                         "odpt:toStation": "TokyoMetro.Tozai.Waseda",
+                         "odpt:necessaryTime": 2,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Waseda",
+                         "odpt:toStation": "TokyoMetro.Tozai.Takadanobaba",
+                         "odpt:necessaryTime": 4,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Takadanobaba",
+                         "odpt:toStation": "TokyoMetro.Tozai.Ochiai",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Rapid"
+                         },
+                         {
+                         "odpt:fromStation": "TokyoMetro.Tozai.Ochiai",
+                         "odpt:toStation": "TokyoMetro.Tozai.Nakano",
+                         "odpt:necessaryTime": 3,
+                         "odpt:trainType": "Rapid"
+                         }
+                         ],
+    "TokyoMetro.Yurakucho": [
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Wakoshi",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.ChikatetsuNarimasu",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.ChikatetsuNarimasu",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.ChikatetsuAkatsuka",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.ChikatetsuAkatsuka",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Heiwadai",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Heiwadai",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Hikawadai",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Hikawadai",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.KotakeMukaihara",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.KotakeMukaihara",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Senkawa",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Senkawa",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Kanamecho",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Kanamecho",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Ikebukuro",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Ikebukuro",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.HigashiIkebukuro",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.HigashiIkebukuro",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Gokokuji",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Gokokuji",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Edogawabashi",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Edogawabashi",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Iidabashi",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Iidabashi",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Ichigaya",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Ichigaya",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Kojimachi",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Kojimachi",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Nagatacho",
+                             "odpt:necessaryTime": 1,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Nagatacho",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Sakuradamon",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Sakuradamon",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Yurakucho",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Yurakucho",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.GinzaItchome",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.GinzaItchome",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Shintomicho",
+                             "odpt:necessaryTime": 1,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Shintomicho",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Tsukishima",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Tsukishima",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Toyosu",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Toyosu",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Tatsumi",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Tatsumi",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.ShinKiba",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.ShinKiba",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Tatsumi",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Tatsumi",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Toyosu",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Toyosu",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Tsukishima",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Tsukishima",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Shintomicho",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Shintomicho",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.GinzaItchome",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.GinzaItchome",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Yurakucho",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Yurakucho",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Sakuradamon",
+                             "odpt:necessaryTime": 1,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Sakuradamon",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Nagatacho",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Nagatacho",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Kojimachi",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Kojimachi",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Ichigaya",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Ichigaya",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Iidabashi",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Iidabashi",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Edogawabashi",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Edogawabashi",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Gokokuji",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Gokokuji",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.HigashiIkebukuro",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.HigashiIkebukuro",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Ikebukuro",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Ikebukuro",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Kanamecho",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Kanamecho",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Senkawa",
+                             "odpt:necessaryTime": 1,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Senkawa",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.KotakeMukaihara",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.KotakeMukaihara",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Hikawadai",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Hikawadai",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Heiwadai",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.Heiwadai",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.ChikatetsuAkatsuka",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.ChikatetsuAkatsuka",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.ChikatetsuNarimasu",
+                             "odpt:necessaryTime": 2,
+                             "odpt:trainType": "Local"
+                             },
+                             {
+                             "odpt:fromStation": "TokyoMetro.Yurakucho.ChikatetsuNarimasu",
+                             "odpt:toStation": "TokyoMetro.Yurakucho.Wakoshi",
+                             "odpt:necessaryTime": 3,
+                             "odpt:trainType": "Local"
+                             }
+                             ]
+}

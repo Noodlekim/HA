@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1st</key>
+	<dict>
+		<key>title</key>
+		<string>未設定</string>
+		<key>startSta</key>
+		<string></string>
+		<key>endSta</key>
+		<string></string>
+		<key>spentTime</key>
+		<string></string>
+		<key>bellFileName</key>
+		<string>電子音.mp3</string>
+		<key>color</key>
+		<string></string>
+	</dict>
+	<key>2st</key>
+	<dict>
+		<key>title</key>
+		<string>未設定</string>
+		<key>startSta</key>
+		<string></string>
+		<key>endSta</key>
+		<string></string>
+		<key>spentTime</key>
+		<string></string>
+		<key>bellFileName</key>
+		<string>電子音.mp3</string>
+		<key>color</key>
+		<string></string>
+	</dict>
+	<key>3st</key>
+	<dict>
+		<key>title</key>
+		<string>未設定</string>
+		<key>startSta</key>
+		<string></string>
+		<key>endSta</key>
+		<string></string>
+		<key>spentTime</key>
+		<string></string>
+		<key>bellFileName</key>
+		<string>電子音.mp3</string>
+		<key>color</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

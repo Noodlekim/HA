@@ -1,0 +1,573 @@
+[
+ {
+     "@context": "http://vocab.tokyometroapp.jp/context_odpt_Railway.jsonld",
+     "@id": "urn:ucode:_00001C000000000000010000030C46AF",
+     "@type": "odpt:Railway",
+     "owl:sameAs": "odpt.Railway:TokyoMetro.Tozai",
+     "dc:title": "東西",
+     "odpt:stationOrder": [
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Nakano",
+         "odpt:index": 0
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Ochiai",
+         "odpt:index": 1
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Takadanobaba",
+         "odpt:index": 2
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Waseda",
+         "odpt:index": 3
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Kagurazaka",
+         "odpt:index": 4
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Iidabashi",
+         "odpt:index": 5
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Kudanshita",
+         "odpt:index": 6
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Takebashi",
+         "odpt:index": 7
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:index": 8
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Nihombashi",
+         "odpt:index": 9
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Kayabacho",
+         "odpt:index": 10
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.MonzenNakacho",
+         "odpt:index": 11
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Kiba",
+         "odpt:index": 12
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Toyocho",
+         "odpt:index": 13
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.MinamiSunamachi",
+         "odpt:index": 14
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.NishiKasai",
+         "odpt:index": 15
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Kasai",
+         "odpt:index": 16
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Urayasu",
+         "odpt:index": 17
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.MinamiGyotoku",
+         "odpt:index": 18
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Gyotoku",
+         "odpt:index": 19
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.Myoden",
+         "odpt:index": 20
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.BarakiNakayama",
+         "odpt:index": 21
+     },
+     {
+         "odpt:station": "odpt.Station:TokyoMetro.Tozai.NishiFunabashi",
+         "odpt:index": 22
+     }
+     ],
+     "odpt:travelTime": [
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Nakano",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Ochiai",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Ochiai",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Takadanobaba",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Takadanobaba",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Waseda",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Waseda",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kagurazaka",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kagurazaka",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Iidabashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Iidabashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kudanshita",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kudanshita",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Takebashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Takebashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Nihombashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Nihombashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kayabacho",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kayabacho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.MonzenNakacho",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.MonzenNakacho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kiba",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kiba",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Toyocho",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Toyocho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.MinamiSunamachi",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.MinamiSunamachi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.NishiKasai",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.NishiKasai",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kasai",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kasai",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Urayasu",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Urayasu",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.MinamiGyotoku",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.MinamiGyotoku",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Gyotoku",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Gyotoku",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Myoden",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Myoden",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.BarakiNakayama",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.BarakiNakayama",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.NishiFunabashi",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.NishiFunabashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.BarakiNakayama",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.BarakiNakayama",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Myoden",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Myoden",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Gyotoku",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Gyotoku",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.MinamiGyotoku",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.MinamiGyotoku",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Urayasu",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Urayasu",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kasai",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kasai",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.NishiKasai",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.NishiKasai",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.MinamiSunamachi",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.MinamiSunamachi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Toyocho",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Toyocho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kiba",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kiba",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.MonzenNakacho",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.MonzenNakacho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kayabacho",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kayabacho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Nihombashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Nihombashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Takebashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Takebashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kudanshita",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kudanshita",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Iidabashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Iidabashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kagurazaka",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kagurazaka",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Waseda",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Waseda",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Takadanobaba",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Takadanobaba",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Ochiai",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Ochiai",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Nakano",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Local"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Nakano",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Ochiai",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Ochiai",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Takadanobaba",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Takadanobaba",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Waseda",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Waseda",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kagurazaka",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kagurazaka",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Iidabashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Iidabashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kudanshita",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kudanshita",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Takebashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Takebashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Nihombashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Nihombashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kayabacho",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kayabacho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.MonzenNakacho",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.MonzenNakacho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kiba",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kiba",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Toyocho",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Toyocho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Urayasu",
+         "odpt:necessaryTime": 7,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Urayasu",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.NishiFunabashi",
+         "odpt:necessaryTime": 8,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.NishiFunabashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Urayasu",
+         "odpt:necessaryTime": 7,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Urayasu",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Toyocho",
+         "odpt:necessaryTime": 7,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Toyocho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kiba",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kiba",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.MonzenNakacho",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.MonzenNakacho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kayabacho",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kayabacho",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Nihombashi",
+         "odpt:necessaryTime": 1,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Nihombashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Takebashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Takebashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kudanshita",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kudanshita",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Iidabashi",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Iidabashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Kagurazaka",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Kagurazaka",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Waseda",
+         "odpt:necessaryTime": 2,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Waseda",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Takadanobaba",
+         "odpt:necessaryTime": 4,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Takadanobaba",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Ochiai",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Ochiai",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Nakano",
+         "odpt:necessaryTime": 3,
+         "odpt:trainType": "odpt.TrainType:Rapid"
+     }
+     ],
+     "odpt:lineCode": "T",
+     "odpt:womenOnlyCar": [
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.NishiFunabashi",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:operationDay": "Weekday",
+         "odpt:availableTimeFrom": "06:58",
+         "odpt:availableTimeUntil": "09:00",
+         "odpt:carComposition": 10,
+         "odpt:carNumber": 10
+     },
+     {
+         "odpt:fromStation": "odpt.Station:TokyoMetro.Tozai.Myoden",
+         "odpt:toStation": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+         "odpt:operationDay": "Weekday",
+         "odpt:availableTimeFrom": "07:09",
+         "odpt:availableTimeUntil": "09:00",
+         "odpt:carComposition": 10,
+         "odpt:carNumber": 10
+     }
+     ],
+     "ug:region": "https://api.tokyometroapp.jp/api/v2/places/urn:ucode:_00001C000000000000010000030C46AF.geojson",
+     "dc:date": "2014-09-29T19:42:45+09:00",
+     "odpt:operator": "odpt.Operator:TokyoMetro"
+ }
+ ]

@@ -1,0 +1,244 @@
+{
+    "TokyoMetro.Fukutoshin": [
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Wakoshi",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuNarimasu",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuNarimasu",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuAkatsuka",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuAkatsuka",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Heiwadai",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Heiwadai",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Hikawadai",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Hikawadai",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.KotakeMukaihara",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.KotakeMukaihara",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Senkawa",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Senkawa",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Kanamecho",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Kanamecho",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Ikebukuro",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Ikebukuro",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Zoshigaya",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Zoshigaya",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.NishiWaseda",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.NishiWaseda",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.HigashiShinjuku",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.HigashiShinjuku",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.KitaSando",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.KitaSando",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.MeijiJingumae",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.MeijiJingumae",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Shibuya",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Shibuya",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.MeijiJingumae",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.MeijiJingumae",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.KitaSando",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.KitaSando",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.HigashiShinjuku",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.HigashiShinjuku",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.NishiWaseda",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.NishiWaseda",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Zoshigaya",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Zoshigaya",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Ikebukuro",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Ikebukuro",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Kanamecho",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Kanamecho",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Senkawa",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Senkawa",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.KotakeMukaihara",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.KotakeMukaihara",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Hikawadai",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Hikawadai",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Heiwadai",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Heiwadai",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuAkatsuka",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuAkatsuka",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuNarimasu",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuNarimasu",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Wakoshi",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Local"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Wakoshi",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.KotakeMukaihara",
+                                        "odpt:necessaryTime": 9,
+                                        "odpt:trainType": "odpt.TrainType:Express"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.KotakeMukaihara",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Ikebukuro",
+                                        "odpt:necessaryTime": 5,
+                                        "odpt:trainType": "odpt.TrainType:Express"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Ikebukuro",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                                        "odpt:necessaryTime": 6,
+                                        "odpt:trainType": "odpt.TrainType:Express"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.MeijiJingumae",
+                                        "odpt:necessaryTime": 4,
+                                        "odpt:trainType": "odpt.TrainType:Express"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.MeijiJingumae",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Shibuya",
+                                        "odpt:necessaryTime": 1,
+                                        "odpt:trainType": "odpt.TrainType:Express"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Shibuya",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.MeijiJingumae",
+                                        "odpt:necessaryTime": 2,
+                                        "odpt:trainType": "odpt.TrainType:Express"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.MeijiJingumae",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                                        "odpt:necessaryTime": 3,
+                                        "odpt:trainType": "odpt.TrainType:Express"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Ikebukuro",
+                                        "odpt:necessaryTime": 6,
+                                        "odpt:trainType": "odpt.TrainType:Express"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.Ikebukuro",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.KotakeMukaihara",
+                                        "odpt:necessaryTime": 4,
+                                        "odpt:trainType": "odpt.TrainType:Express"
+                                        },
+                                        {
+                                        "odpt:fromStation": "odpt.Station:TokyoMetro.Fukutoshin.KotakeMukaihara",
+                                        "odpt:toStation": "odpt.Station:TokyoMetro.Fukutoshin.Wakoshi",
+                                        "odpt:necessaryTime": 10,
+                                        "odpt:trainType": "odpt.TrainType:Express"
+                                        }
+                                        ]
+}

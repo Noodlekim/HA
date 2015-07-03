@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C6A8583-50B3-43E9-89B1-55970199AE73</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KJ_MetroAlram</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1EA8D94BF1BB3A901FF33B98524B17EE89B4E12E</key>
+		<string>https://bitbucket.org/NoodleKim/metroalram.git</string>
+		<key>7F9695B3869CCD3105ADC663DD154C7B1EE2F9F7</key>
+		<string>https://bitbucket.org/metroalram/metroalram.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KJMetroAlram/KJ_MetroAlram.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1EA8D94BF1BB3A901FF33B98524B17EE89B4E12E</key>
+		<string>../../../../MetroAlram</string>
+		<key>7F9695B3869CCD3105ADC663DD154C7B1EE2F9F7</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/metroalram/metroalram.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7F9695B3869CCD3105ADC663DD154C7B1EE2F9F7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7F9695B3869CCD3105ADC663DD154C7B1EE2F9F7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MetroAL_141027</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1EA8D94BF1BB3A901FF33B98524B17EE89B4E12E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MetroAlram</string>
+		</dict>
+	</array>
+</dict>
+</plist>

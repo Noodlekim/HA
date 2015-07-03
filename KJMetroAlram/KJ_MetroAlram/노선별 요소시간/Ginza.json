@@ -1,0 +1,220 @@
+{
+    "TokyoMetro.Ginza": [
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Shibuya",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.OmoteSando",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.OmoteSando",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Gaiemmae",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Gaiemmae",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.AoyamaItchome",
+                                           "odpt:necessaryTime": 1,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.AoyamaItchome",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.AkasakaMitsuke",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.AkasakaMitsuke",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.TameikeSanno",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.TameikeSanno",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Toranomon",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Toranomon",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Shimbashi",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Shimbashi",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Ginza",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Ginza",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Kyobashi",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Kyobashi",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Nihombashi",
+                                           "odpt:necessaryTime": 1,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Nihombashi",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Mitsukoshimae",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Mitsukoshimae",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Kanda",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Kanda",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Suehirocho",
+                                           "odpt:necessaryTime": 1,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Suehirocho",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.UenoHirokoji",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.UenoHirokoji",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Ueno",
+                                           "odpt:necessaryTime": 1,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Ueno",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Inaricho",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Inaricho",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Tawaramachi",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Tawaramachi",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Asakusa",
+                                           "odpt:necessaryTime": 1,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Asakusa",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Tawaramachi",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Tawaramachi",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Inaricho",
+                                           "odpt:necessaryTime": 1,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Inaricho",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Ueno",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Ueno",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.UenoHirokoji",
+                                           "odpt:necessaryTime": 1,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.UenoHirokoji",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Suehirocho",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Suehirocho",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Kanda",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Kanda",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Mitsukoshimae",
+                                           "odpt:necessaryTime": 1,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Mitsukoshimae",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Nihombashi",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Nihombashi",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Kyobashi",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Kyobashi",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Ginza",
+                                           "odpt:necessaryTime": 1,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Ginza",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Shimbashi",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Shimbashi",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Toranomon",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Toranomon",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.TameikeSanno",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.TameikeSanno",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.AkasakaMitsuke",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.AkasakaMitsuke",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.AoyamaItchome",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.AoyamaItchome",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Gaiemmae",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.Gaiemmae",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.OmoteSando",
+                                           "odpt:necessaryTime": 1,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           },
+                                           {
+                                           "odpt:fromStation": "odpt.Station:TokyoMetro.Ginza.OmoteSando",
+                                           "odpt:toStation": "odpt.Station:TokyoMetro.Ginza.Shibuya",
+                                           "odpt:necessaryTime": 2,
+                                           "odpt:trainType": "odpt.TrainType:Local"
+                                           }
+                                           ]
+}

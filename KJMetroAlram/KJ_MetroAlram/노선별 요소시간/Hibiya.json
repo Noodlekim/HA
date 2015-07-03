@@ -1,0 +1,244 @@
+{
+    "TokyoMetro.Hibiya": [
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.NakaMeguro",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Ebisu",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Ebisu",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.HiroO",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.HiroO",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Roppongi",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Roppongi",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Kamiyacho",
+                                       "odpt:necessaryTime": 4,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Kamiyacho",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Kasumigaseki",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Kasumigaseki",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Hibiya",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Hibiya",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Ginza",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Ginza",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.HigashiGinza",
+                                       "odpt:necessaryTime": 1,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.HigashiGinza",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Tsukiji",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Tsukiji",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Hatchobori",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Hatchobori",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Kayabacho",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Kayabacho",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Ningyocho",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Ningyocho",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Kodemmacho",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Kodemmacho",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Akihabara",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Akihabara",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.NakaOkachimachi",
+                                       "odpt:necessaryTime": 1,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.NakaOkachimachi",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Ueno",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Ueno",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Iriya",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Iriya",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Minowa",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Minowa",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.MinamiSenju",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.MinamiSenju",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.KitaSenju",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.KitaSenju",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.MinamiSenju",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.MinamiSenju",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Minowa",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Minowa",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Iriya",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Iriya",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Ueno",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Ueno",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.NakaOkachimachi",
+                                       "odpt:necessaryTime": 1,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.NakaOkachimachi",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Akihabara",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Akihabara",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Kodemmacho",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Kodemmacho",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Ningyocho",
+                                       "odpt:necessaryTime": 1,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Ningyocho",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Kayabacho",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Kayabacho",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Hatchobori",
+                                       "odpt:necessaryTime": 1,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Hatchobori",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Tsukiji",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Tsukiji",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.HigashiGinza",
+                                       "odpt:necessaryTime": 1,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.HigashiGinza",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Ginza",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Ginza",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Hibiya",
+                                       "odpt:necessaryTime": 1,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Hibiya",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Kasumigaseki",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Kasumigaseki",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Kamiyacho",
+                                       "odpt:necessaryTime": 2,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Kamiyacho",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Roppongi",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Roppongi",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.HiroO",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.HiroO",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.Ebisu",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       },
+                                       {
+                                       "odpt:fromStation": "odpt.Station:TokyoMetro.Hibiya.Ebisu",
+                                       "odpt:toStation": "odpt.Station:TokyoMetro.Hibiya.NakaMeguro",
+                                       "odpt:necessaryTime": 3,
+                                       "odpt:trainType": "odpt.TrainType:Local"
+                                       }
+                                       ]
+}

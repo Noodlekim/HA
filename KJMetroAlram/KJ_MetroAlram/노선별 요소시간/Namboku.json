@@ -1,0 +1,220 @@
+{
+    "TokyoMetro.Namboku": [
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Meguro",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Shirokanedai",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Shirokanedai",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.ShirokaneTakanawa",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.ShirokaneTakanawa",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.AzabuJuban",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.AzabuJuban",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.RoppongiItchome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.RoppongiItchome",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.TameikeSanno",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.TameikeSanno",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Nagatacho",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Nagatacho",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Yotsuya",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Yotsuya",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Ichigaya",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Ichigaya",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Iidabashi",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Iidabashi",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Korakuen",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Korakuen",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Todaimae",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Todaimae",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.HonKomagome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.HonKomagome",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Komagome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Komagome",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Nishigahara",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Nishigahara",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Oji",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Oji",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.OjiKamiya",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.OjiKamiya",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Shimo",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Shimo",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.AkabaneIwabuchi",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.AkabaneIwabuchi",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Shimo",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Shimo",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.OjiKamiya",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.OjiKamiya",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Oji",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Oji",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Nishigahara",
+                              "odpt:necessaryTime": 1,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Nishigahara",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Komagome",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Komagome",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.HonKomagome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.HonKomagome",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Todaimae",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Todaimae",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Korakuen",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Korakuen",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Iidabashi",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Iidabashi",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Ichigaya",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Ichigaya",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Yotsuya",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Yotsuya",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Nagatacho",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Nagatacho",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.TameikeSanno",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.TameikeSanno",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.RoppongiItchome",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.RoppongiItchome",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.AzabuJuban",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.AzabuJuban",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.ShirokaneTakanawa",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.ShirokaneTakanawa",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Shirokanedai",
+                              "odpt:necessaryTime": 3,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              },
+                              {
+                              "odpt:fromStation": "odpt.Station:TokyoMetro.Namboku.Shirokanedai",
+                              "odpt:toStation": "odpt.Station:TokyoMetro.Namboku.Meguro",
+                              "odpt:necessaryTime": 2,
+                              "odpt:trainType": "odpt.TrainType:Local"
+                              }
+                              ]
+}
