@@ -17,4 +17,4 @@
 
 
 ### スクリーンショット  
-![](https://github.com/Noodlekim/TMHa/blob/master/screenshot.png?raw=true)
+![](https://github.com/Noodlekim/TMHa/blob/master/screenshot2.png?raw=true)
