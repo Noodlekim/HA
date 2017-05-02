@@ -14,3 +14,7 @@
 - タイマー設定の時アラーム音の選択ができる
 - よく使う駅の設定やアラーム設定などの保存機能がある
 - オフラインでも使える
+
+
+### スクリーンショット  
+![](https://github.com/Noodlekim/TMHa/blob/master/screenshot.png?raw=true)
