@@ -1,8 +1,7 @@
 # TMHa
 
-### 開発環境
-- Xcode6
-- Objective-C
+![tool](https://img.shields.io/badge/tool-xcode6-blue.svg)
+![language](https://img.shields.io/badge/language-Obj--C-yellow.svg)
 
 ### 概要
 - 2014年Tokyo metroコンテストのため作ったアプリ
